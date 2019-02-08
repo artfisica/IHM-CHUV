@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+    <head>
+		<meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <title>Thumbnail Proximity Effect with jQuery and CSS3</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <meta name="description" content="Thumbnail Proximity Effect with jQuery and CSS3" />
+        <meta name="keywords" content="thumbnails, jquery, proximity, effect, css3, scale, mouse, hover" />
+        <meta name="author" content="Codrops" />
+        <link rel="shortcut icon" href="../favicon.ico"> 
+        <link rel="stylesheet" type="text/css" href="css/demo.css" />
+        <link rel="stylesheet" type="text/css" href="css/style1.css" />
+    </head>
+    <body id="page">
+        <div class="container">
+			<!-- Codrops top bar -->
+            <div class="codrops-top">
+                <a href="http://tympanus.net/Tutorials/CSS3FullscreenSlideshow/">
+                    <strong>&laquo; Previous Demo: </strong>Fullscreen Background Image Slideshow with CSS3
+                </a>
+                <span class="right">
+					<a href="http://www.behance.net/neo_innov" target="_blank">Illustrations by Florian NICOLLE</a>
+					<a href="http://creativecommons.org/licenses/by-nc/3.0/" target="_blank">CC BY-NC 3.0</a>
+                    <a href="http://tympanus.net/codrops/2012/01/04/thumbnail-proximity-effect/">
+                        <strong>Back to the Codrops Article</strong>
+                    </a>
+                </span>
+                <div class="clr"></div>
+            </div><!--/ Codrops top bar -->
+			<header>
+				<h1>Thumbnail <span>Proximity</span> Effect</h1>
+				<h2>with jQuery &amp; CSS3 using <a href="https://github.com/padolsey/jQuery-Plugins/tree/master/proximity-event">"proximity-event"</a> by <a href="http://james.padolsey.com/">James Padolsey</a></h2>
+				<p class="codrops-demos">
+					<a class="current-demo" href="index.html">Demo 1</a>
+					<a href="index2.html">Demo 2</a>
+					<a href="index3.html">Demo 3</a>
+				</p>
+			</header>
+			<section class="pe-container">
+				<ul id="pe-thumbs" class="pe-thumbs">
+					<li><a href="#"><img src="images/thumbs/1.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/2.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/3.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/4.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/5.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/6.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/7.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/8.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/9.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/10.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/11.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/12.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/13.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/14.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/15.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/16.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/17.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/18.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/19.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/20.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/21.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/22.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/23.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/24.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/25.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/26.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/27.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/28.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/29.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/7.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/1.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/2.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/3.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/4.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/5.jpg" /></a></li>
+					<li><a href="#"><img src="images/thumbs/6.jpg" /></a></li>
+				</ul>
+			</section>
+        </div>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script type="text/javascript" src="js/jquery.proximity.js"></script>
+		<script type="text/javascript">
+			$(function() {
+				
+				var Photo	= (function() {
+						
+						// list of thumbs
+					var $list		= $('#pe-thumbs'),
+						// the images
+						$elems		= $list.find('img'),
+						// maxScale : maximum scale value the image will have
+						// minOpacity / maxOpacity : minimum (set in the CSS) and maximum values for the image's opacity
+						settings	= {
+							maxScale	: 1.4,
+							maxOpacity	: 0.9,
+							minOpacity	: Number( $elems.css('opacity') )
+						},
+						init		= function() {
+							
+							// minScale will be set in the CSS
+							settings.minScale = _getScaleVal() || 1;
+							_initEvents();
+						
+						},
+						// Get Value of CSS Scale through JavaScript:
+						// http://css-tricks.com/get-value-of-css-rotation-through-javascript/
+						_getScaleVal= function() {
+						
+							var st = window.getComputedStyle($elems.get(0), null),
+								tr = st.getPropertyValue("-webkit-transform") ||
+									 st.getPropertyValue("-moz-transform") ||
+									 st.getPropertyValue("-ms-transform") ||
+									 st.getPropertyValue("-o-transform") ||
+									 st.getPropertyValue("transform") ||
+									 "fail...";
+
+							if( tr !== 'none' ) {	 
+
+								var values = tr.split('(')[1].split(')')[0].split(','),
+									a = values[0],
+									b = values[1],
+									c = values[2],
+									d = values[3];
+
+								return Math.sqrt( a * a + b * b );
+							
+							}
+							
+						},
+						_initEvents	= function() {
+							
+							// the proximity event
+							$elems.on('proximity.Photo', { max: 80, throttle: 10, fireOutOfBounds : true }, function( event, proximity, distance ) {
+								
+								var $el			= $(this),
+									$li			= $el.closest('li'),
+									scaleVal	= proximity * ( settings.maxScale - settings.minScale ) + settings.minScale,
+									scaleExp	= 'scale(' + scaleVal + ')';
+								
+								// change the z-index of the element once it reaches the maximum scale value
+								( scaleVal === settings.maxScale ) ? $li.css( 'z-index', 1000 ) : $li.css( 'z-index', 1 );
+								
+								$el.css({
+									'-webkit-transform'	: scaleExp,
+									'-moz-transform'	: scaleExp,
+									'-o-transform'		: scaleExp,
+									'-ms-transform'		: scaleExp,
+									'transform'			: scaleExp,
+									'opacity'			: ( proximity * ( settings.maxOpacity - settings.minOpacity ) + settings.minOpacity )
+								});
+
+							});
+						
+						}
+					
+					return {
+						init	: init
+					};
+				
+				})();
+				
+				Photo.init();
+				
+			});
+		</script>
+    </body>
+</html>
