@@ -10,7 +10,7 @@
     <section class="pe-container">
 		  <ul id="pe-thumbs" class="pe-thumbs">
         <!-- <table> -->
-        <?php include('php-table.html'); ?>
+        <?php include('php-table-short.html'); ?>
         <!-- </table> -->
 		 </ul>
 		</section>
