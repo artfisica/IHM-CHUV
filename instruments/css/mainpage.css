@@ -1,0 +1,47 @@
+div.macrocontainer {
+    display: grid;
+    grid-template-columns: auto 10px auto;
+    grid-template-rows: auto;
+    padding: 20px 0px 0px 30px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+div.left {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    background-color: Black;
+    text-align:center;
+    position: relative;
+    height: 100%;
+    min-width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.right {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end; 1;
+    background-color: Black;
+}
+
+div.below {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 2;
+    background-color: Black;
+}
+
+.container-legend {
+  width: auto;
+  height: 120px;
+  background-color: Blue;
+  display: flex;
+  align-items: center;
+}
