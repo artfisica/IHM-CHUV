@@ -616,11 +616,46 @@ Table of Contents
 	background-image: linear-gradient(top, #3498db 58%, #2a90d4 0%);
 }
 
-.grey {
-	background-color: #f8e9d1;
-	background-image: -webkit-linear-gradient(top, #f8e9d1 58%, #e7d5b7 0%);
+.grey-1 {
+	background-color: #C0C0C0;
+/*	background-image: -webkit-linear-gradient(top, #DCDCDC 58%, #e7d5b7 0%);
+	background-image: -moz-linear-gradient(top, #DCDCDC 58%, #e7d5b7 0%);
+	background-image: linear-gradient(top, #DCDCDC 58%, #e7d5b7 0%); */
+}
+
+.grey-2 {
+	background-color: #A9A9A9;
+/*	background-image: -webkit-linear-gradient(top, #f8e9d1 58%, #e7d5b7 0%);
 	background-image: -moz-linear-gradient(top, #f8e9d1 58%, #e7d5b7 0%);
-	background-image: linear-gradient(top, #f8e9d1 58%, #e7d5b7 0%);
+	background-image: linear-gradient(top, #f8e9d1 58%, #e7d5b7 0%); */
+}
+
+.grey-3 {
+	background-color: #808080;
+/*	background-image: -webkit-linear-gradient(top, #f8e9d1 58%, #e7d5b7 0%);
+	background-image: -moz-linear-gradient(top, #f8e9d1 58%, #e7d5b7 0%);
+	background-image: linear-gradient(top, #f8e9d1 58%, #e7d5b7 0%); */
+}
+
+.grey-4 {
+	background-color: #778899;
+/*	background-image: -webkit-linear-gradient(top, #f8e9d1 58%, #e7d5b7 0%);
+	background-image: -moz-linear-gradient(top, #f8e9d1 58%, #e7d5b7 0%);
+	background-image: linear-gradient(top, #f8e9d1 58%, #e7d5b7 0%); */
+}
+
+.grey-5 {
+	background-color: #708090;
+/*	background-image: -webkit-linear-gradient(top, #B0B0B0 58%, #e7d5b7 0%);
+	background-image: -moz-linear-gradient(top, #B0B0B0 58%, #e7d5b7 0%);
+	background-image: linear-gradient(top, #B0B0B0 58%, #e7d5b7 0%); */
+}
+
+.grey-6 {
+	background-color: #2F4F4F;
+/*	background-image: -webkit-linear-gradient(top, #f8e9d1 58%, #e7d5b7 0%);
+	background-image: -moz-linear-gradient(top, #f8e9d1 58%, #e7d5b7 0%);
+	background-image: linear-gradient(top, #f8e9d1 58%, #e7d5b7 0%); */
 }
 
 /* Basic ribbon */

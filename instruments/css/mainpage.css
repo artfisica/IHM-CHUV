@@ -1,6 +1,6 @@
 div.macrocontainer {
     display: grid;
-    grid-template-columns: auto 10px auto;
+    grid-template-columns: auto 1px auto;
     grid-template-rows: auto;
     padding: 20px 0px 0px 30px;
     -moz-box-sizing: border-box;
@@ -30,11 +30,20 @@ div.right {
     background-color: Black;
 }
 
+div.middle {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 2;
+    background-color: Black;
+    padding: 0px 10px 0px 20px;
+}
+
 div.below {
     grid-column-start: 1;
     grid-column-end: 4;
-    grid-row-start: 2;
-    grid-row-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 3;
     background-color: Black;
 }
 
