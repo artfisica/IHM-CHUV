@@ -14,32 +14,33 @@
           <link rel="stylesheet" type="text/css" href="../css/demo.css" />
           <link rel="stylesheet" type="text/css" href="../css/style-large.css" />
 
-      <!-- Codrops top bar -->
-      <div class="codrops-top">
-          <a href="https://www.chuv.ch/ihm/">Go to Institute page</a>
-          <span class="right">
-    			    <a href="https://commons.wikimedia.org/wiki/Category:Institut_universitaire_d%27histoire_de_la_m%C3%A9decine_et_de_la_sant%C3%A9_publique" target="_blank">wikimedia repository</a>
-  				</span>
-          <div class="clr"></div>
-      </div><!--/ Codrops top bar -->
+          <!-- Codrops top bar -->
+          <div class="codrops-top">
+      			<a href="https://www.chuv.ch/ihm/">Page de l'institut</a>
+            <span class="right">
+              <a href="https://commons.wikimedia.org/wiki/Category:Institut_universitaire_d%27histoire_de_la_m%C3%A9decine_et_de_la_sant%C3%A9_publique" target="_blank">Dépôt Wikimedia</a>
+            </span>
+              <div class="clr"></div>
+          </div><!--/ Codrops top bar -->
 
   		<CENTER>
         <h1 style="color:white;font-size:140%;"><img src="../images/chuv.png" alt="logo CHUV" align="centre"><b>Institut des humanités en médecine</b></h1>
   		</CENTER>
+
+      <style>
+      p.ex1 {
+         border: 1px solid black;
+         padding: 50px;
+         margin: 50px;
+      }
+
+</style>
 </header>
 
 <!-- body -->
 <body>
-  <CENTRE>
-    <p>Hola! Test landing page</p>
-    <p><a href="../../instruments/index-div.html">click here to continue demo</a></p>
-  </CENTRE>
+    <br>
+    <p class="ex1">Hola! Test landing page: <a href="../../instruments/index-div.html"><font size="6" color="white">click here to continue demo</font></a></p>
+    </br>
 </body>
 <!-- end main body -->
-
-<footer>
-  <div class="footer">
-    <p><img src="../images/chuv.png" alt="logo CHUV" align="centre"><b>Institut des humanités en médecine</b></p>
-  </div>
-</footer>
-</html>
