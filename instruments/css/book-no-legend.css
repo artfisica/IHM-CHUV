@@ -65,7 +65,7 @@ a {
 
 .align {
 	clear: both;
-	margin: 90px auto 20px;
+	margin: 50px auto 10px;
 	width: 100%;
 	max-width: 1170px;
 	text-align: center;
@@ -75,7 +75,7 @@ a {
 	width: 200px;
 	min-height: 200px;
 	display: inline-block;
-	margin: 10px 10px 50px 24px;
+	margin: 10px 10px 40px 24px;
 	padding: 0 0 0 0px;
 	vertical-align: top;
 }

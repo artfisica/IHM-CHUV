@@ -52,7 +52,7 @@ abbr,acronym { border:0;
 /* General Demo Style */
 body{
 	font-family: Constantia, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
-	background: #fbf8f4 url(../images/bg.jpg) repeat top left;
+	background: black; /*#fbf8f4 url(../images/bg.jpg) repeat top left;*/
 	font-weight: 400;
 	font-size: 15px;
 	color: #936a46;
