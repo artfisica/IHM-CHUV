@@ -6,7 +6,7 @@
 	background: transparent url(../images/Salle_operation_H_Bugnon-edited.jpg) center center;
 	background-size: 1200px;
 	border: 0px solid #fff;
-	box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+	box-shadow: 0 1px 2px rgba(0,0,0,0.9);
 }
 .pe-thumbs:before {
 	content: "";
@@ -29,7 +29,7 @@
 }
 .pe-thumbs li a img{
 	width:120px;
-	opacity: 0.2;
+	opacity: 0;
 }
 .pe-thumbs li a div.pe-description{
 	width: 300px;
