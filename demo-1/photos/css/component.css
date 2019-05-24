@@ -42,7 +42,7 @@
 }
 
 .grid figcaption span:before {
-	content: 'go to the page of ';
+	content: ' ';
 }
 
 .grid figcaption a {
