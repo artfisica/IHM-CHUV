@@ -241,7 +241,8 @@
         <!-- related photos -->
         <div class="component">
            <div class="container demo-3">
-            <!-- Top Navigation -->
+             <p align="left" style="padding: 60px 0px 10px 132px;"><b>En lien avec cet objet</b></p>
+             <!-- Top Navigation -->
              <ul class="grid cs-style-4">
                <li>
                  <figure>
