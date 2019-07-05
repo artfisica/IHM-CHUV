@@ -230,12 +230,15 @@
         </div>
       </div>
       <div class="middle">
-        <a style="color:white;"><b>Lorem ipsum dolor sit amet, mutat viris tacimates has an</b>
-          <br>	An prima facilisis vix, eos et alia iudico, ad possim deleniti petentium pro.
+        <p style="padding: 0px 0px 0px 10%; color:white;">
+            <b>Lorem ipsum dolor sit amet, mutat viris tacimates has an</b>
+            <br>An prima facilisis vix, eos et alia iudico, ad possim deleniti petentium pro.
             An prima facilisis vix, eos et alia iudico, ad possim deleniti petentium pro.
-                        Iusto commune id nam, usu assum dolores definiebas no. At mel populo habemus. Legimus consectetuer te mea.
-                        Ut vel mutat soluta tibique. Duo modo suavitate delicatissimi cu, principes omittantur an vis, vim dolore.</a>
-        <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=62479294">Link</a>
+            Iusto commune id nam, usu assum dolores definiebas no. At mel populo habemus. Legimus consectetuer te mea.
+            Ut vel mutat soluta tibique. Duo modo suavitate delicatissimi cu, principes omittantur an vis, vim dolore.</br>
+          <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>
+          <a href="https://commons.wikimedia.org/w/index.php?curid=62479294">Link</a>
+        </p>
       </div>
       <div class="below">
         <!-- related photos -->

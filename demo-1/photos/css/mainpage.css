@@ -49,7 +49,7 @@ div.middle {
     grid-row-start: 2;
     grid-row-end: 2;
     background-color: Black;
-    padding: 10px 4% 0px 8%;
+    padding: 10px 4% 0px 1%;
     font-size: 115%;
     font-family: "Arial";
 }
