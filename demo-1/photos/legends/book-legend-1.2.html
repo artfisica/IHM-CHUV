@@ -1,0 +1,17 @@
+<?php
+$photo="1.2";
+$file = fopen("../data-form/IHM-DB-dec-2019-pipe.tsv", "r") or die("Cannot open file!\n");
+while ($line = fgets($file, 1024)) {
+    if (preg_match("/\b$photo\b/i", $line)) {
+        $data = explode('|', $line);
+    }
+}
+fclose($file);
+
+echo "<p style=\"padding: 0px 0px 0px 10%; color:white;\">";
+echo "<b>$data[3]</b>";
+echo"<br>$data[5]</br>";
+echo "<a href=\"https://creativecommons.org/licenses/by-sa/4.0\" title=\"Creative Commons Attribution-Share Alike 4.0\">CC BY-SA 4.0</a>";
+echo "</p>";
+
+?>
