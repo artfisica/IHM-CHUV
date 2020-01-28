@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'BebasNeueRegular';
+    font-family: 'NeoSansStd';
     src: url('fonts/BebasNeue-webfont.eot');
     src: url('fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
          url('fonts/BebasNeue-webfont.woff') format('woff'),
          url('fonts/BebasNeue-webfont.ttf') format('truetype'),
-         url('fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+         url('fonts/BebasNeue-webfont.svg#NeoSansStd') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -82,7 +82,7 @@ a{
     text-align: center;
 }
 .container > header h1{
-	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+	font-family: 'NeoSansStd', 'Arial Narrow', Arial, sans-serif;
 	font-size: 35px;
 	line-height: 35px;
 	position: relative;

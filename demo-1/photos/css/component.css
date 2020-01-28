@@ -31,8 +31,8 @@
 	top: 0;
 	left: 0;
 	padding: 20px;
-	background: #2c3f52;
-	color: #ed4e6e;
+	background: #000000; /*background: #262626;*/
+	color: #ffffff;	/*color: #ededed;*/
 }
 
 .grid figcaption h3 {
@@ -50,8 +50,8 @@
 	padding: 5px 10px;
 	border-radius: 2px;
 	display: inline-block;
-	background: #ed4e6e;
-	color: #fff;
+	background: #ededed;
+	color: #000000; /*color: #262626;*/
 }
 
 /* Individual Caption Styles */

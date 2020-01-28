@@ -17,7 +17,7 @@
       </div>
       <div class="right">
         <!-- related Books -->
-        <?php include("books/books-matrix-.html"); ?> <!-- books-matrix-" . $_GET["photo"] . ".html"); ?> -->
+        <?php include("books/books-matrix-" . $_GET["photo"] . ".html"); ?> <!-- books-matrix-" . $_GET["photo"] . ".html"); ?> -->
         <!-- end related Books -->
       </div>
       <div class="middle">
@@ -50,6 +50,7 @@
 <!-- end main body -->
 
 <footer>
+  <!-- foot from chuv -->
   <?php include('footer.html'); ?>
 </footer>
 </html>

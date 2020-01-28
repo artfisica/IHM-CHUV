@@ -26,7 +26,7 @@ html {
 body {
 	background: #000;
 	color: #fff;
-	font-family: 'Lato', 'Arial', sans-serif;
+	font-family: 'NeoSansStd', 'Arial Narrow', Arial, sans-serif;
 	font-weight: 400;
 	line-height: 1.2;
 }
@@ -729,7 +729,7 @@ figcaption h1 {
 }
 
 figcaption span {
-	color: #16a085;
+  color: #ffffff;	/*color: #16a085;*/
 	padding: 0.6em 0 1em 0;
 	display: block;
 }
