@@ -42,7 +42,7 @@
       </div>
       <div class="below">
         <!-- related photos -->
-        <?php include("relates/related-books-.html"); ?> <!-- related-books-" . $_GET["photo"] . ".html"); ?> -->
+        <?php include("relates/related-books-" . $_GET["photo"] . ".html"); ?> <!-- related-books.html"); ?> -->
         <!-- end related photos -->
       </div>
   </div>
