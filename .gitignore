@@ -1,4 +1,5 @@
 *.txt
+*.bak
 */*/*formdata-*.csv
 
 .DS_Store
