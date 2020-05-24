@@ -1,0 +1,9 @@
+.bkg{
+	width: 1200px;
+	height: 840px;
+	margin: 10px auto;
+	position: relative;
+	background: transparent url(../images/Salle_operation_H_Bugnon-edited.jpg) center center;
+	background-size: 1200px;
+	border: 0px solid #fff;
+}
