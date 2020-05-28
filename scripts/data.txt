@@ -1,0 +1,1965 @@
+#!/usr/bin/env bash
+
+################################################################################
+## Epithélioma développé sur Lupus
+replacement11=(
+    _title1~"Einige Beobachtungen zur Anatomie und Pathologie des Lupus"
+    _author1~"Henri Stilling"
+    _year1~1877
+    _link1~41BCU_ALMA7155302850002851
+    _title2~"Atlas of the diseases of the skin"
+    _author2~"Henry R Crocker"
+    _year2~1903
+    _link2~41BCU_ALMA7150618370002851
+    _title3~"La dermatologie en clientèle : \"l'indispensable en dermatologie\""
+    _author3~"Henri Gougerot"
+    _year3~1939
+    _link3~41BCU_ALMA7153904780002851
+    _title4~"Variations sur la peau"
+    _author4~"S. Héas \& L. Misery"
+    _year4~2007-2008
+    _link4~ 41BCU_ALMA7145427880002851
+    _title5~"Körper in Wachs"
+    _author5~"Stiftung Deutsches Hygiene-Museum"
+    _year5~2010
+    _link5~41BCU_ALMA7175728270002851
+    _title6~"The Morbid Anatomy anthology"
+    _author6~"Joanna Ebenstein ... [et al.]"
+    _year6~2015
+    _link6~41BCU_ALMA7177389760002851
+)
+
+################################################################################
+## Pemphigus foliace
+replacement12=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement13=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement14=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement15=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement16=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement17=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement18=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement19=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement110=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement21=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement22=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement23=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement24=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement25=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement26=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement27=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement28=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement29=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement210=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement31=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement32=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement33=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement34=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement35=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement36=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement37=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement38=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement39=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement310=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement41=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement42=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement43=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement44=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement45=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement46=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement47=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement48=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement49=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement410=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement51=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement52=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement53=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement54=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement55=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement56=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement57=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement58=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement59=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement510=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement61=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement62=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement63=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement64=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement65=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement66=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement67=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement68=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement69=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement610=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement71=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement72=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement73=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement74=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement75=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement76=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement77=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement78=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement79=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################
+replacement710=(
+    _title1~
+    _author1~
+    _year1~
+    _link1~
+    _title2~
+    _author2~
+    _year2~
+    _link2~
+    _title3~
+    _author3~
+    _year3~
+    _link3~
+    _title4~
+    _author4~
+    _year4~
+    _link4~
+    _title5~
+    _author5~
+    _year5~
+    _link5~
+    _title6~
+    _author6~
+    _year6~
+    _link6~
+)
+
+################################################################################

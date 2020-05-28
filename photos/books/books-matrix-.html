@@ -1,215 +1,231 @@
-<div class="component">
-  <ul class="align">
-    <!-- Book 1 -->
-    <li>
-      <figure class='book'>
-        <!-- Front -->
-        <ul class='hardcover_front'>
-          <li>
-            <div class="coverDesign grey-1">
-              <h1>Henri Stilling</h1>
-              <p>"EinigeBeobachtungen zur Anatomie und Pathologie des Lupus"</p>
-              <h2>1877</h2>
-            </div>
-          </li>
-          <li></li>
-        </ul>
-        <!-- Pages -->
-        <ul class='page'>
-          <li></li>
-          <li>
-            <a class="btn" href="#">afficher</a>
-          </li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-        <!-- Back -->
-        <ul class='hardcover_back'>
-          <li></li>
-          <li></li>
-        </ul>
-        <ul class='book_spine'>
-          <li></li>
-          <li></li>
-        </ul>
-      </figure>
-    </li>
-    <!-- Book 2 -->
-    <li>
-      <figure class='book'>
-        <!-- Front -->
-        <ul class='hardcover_front'>
-          <li>
-            <div class="coverDesign grey-2">
-              <h1>Henri Stilling</h1>
-              <p>"EinigeBeobachtungen zur Anatomie und Pathologie des Lupus"</p>
-              <h2>1877</h2>
-            </div>
-          </li>
-          <li></li>
-        </ul>
-        <!-- Pages -->
-        <ul class='page'>
-          <li></li>
-          <li>
-            <a class="btn" href="#">afficher</a>
-          </li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-        <!-- Back -->
-        <ul class='hardcover_back'>
-          <li></li>
-          <li></li>
-        </ul>
-        <ul class='book_spine'>
-          <li></li>
-          <li></li>
-        </ul>
-      </figure>
-    </li>
-    <!-- Book 3 -->
-    <li>
-      <figure class='book'>
-        <!-- Front -->
-        <ul class='hardcover_front'>
-          <li>
-            <div class="coverDesign grey-3">
-              <h1>Henri Stilling</h1>
-              <p>"EinigeBeobachtungen zur Anatomie und Pathologie des Lupus"</p>
-              <h2>1877</h2>
-            </div>
-          </li>
-          <li></li>
-        </ul>
-        <!-- Pages -->
-        <ul class='page'>
-          <li></li>
-          <li>
-            <a class="btn" href="#">afficher</a>
-          </li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-        <!-- Back -->
-        <ul class='hardcover_back'>
-          <li></li>
-          <li></li>
-        </ul>
-        <ul class='book_spine'>
-          <li></li>
-          <li></li>
-        </ul>
-      </figure>
-    </li>
-    <!-- Book 4 -->
-    <li>
-      <figure class='book'>
-        <!-- Front -->
-        <ul class='hardcover_front'>
-          <li>
-            <div class="coverDesign grey-4">
-              <h1>Henri Stilling</h1>
-              <p>"EinigeBeobachtungen zur Anatomie und Pathologie des Lupus"</p>
-              <h2>1877</h2>
-            </div>
-          </li>
-          <li></li>
-        </ul>
-        <!-- Pages -->
-        <ul class='page'>
-          <li></li>
-          <li>
-            <a class="btn" href="#">afficher</a>
-          </li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-        <!-- Back -->
-        <ul class='hardcover_back'>
-          <li></li>
-          <li></li>
-        </ul>
-        <ul class='book_spine'>
-          <li></li>
-          <li></li>
-        </ul>
-      </figure>
-    </li>
-    <!-- Book 5 -->
-    <li>
-      <figure class='book'>
-        <!-- Front -->
-        <ul class='hardcover_front'>
-          <li>
-            <div class="coverDesign grey-5">
-              <h1>Henri Stilling</h1>
-              <p>"EinigeBeobachtungen zur Anatomie und Pathologie des Lupus"</p>
-              <h2>1877</h2>
-            </div>
-          </li>
-          <li></li>
-        </ul>
-        <!-- Pages -->
-        <ul class='page'>
-          <li></li>
-          <li>
-            <a class="btn" href="#">afficher</a>
-          </li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-        <!-- Back -->
-        <ul class='hardcover_back'>
-          <li></li>
-          <li></li>
-        </ul>
-        <ul class='book_spine'>
-          <li></li>
-          <li></li>
-        </ul>
-      </figure>
-    </li>
-    <!-- Book 6 -->
-    <li>
-      <figure class='book'>
-        <!-- Front -->
-        <ul class='hardcover_front'>
-          <li>
-            <div class="coverDesign grey-6">
-              <h1>Henri Stilling</h1>
-              <p>"EinigeBeobachtungen zur Anatomie und Pathologie des Lupus"</p>
-              <h2>1877</h2>
-            </div>
-          </li>
-          <li></li>
-        </ul>
-        <!-- Pages -->
-        <ul class='page'>
-          <li></li>
-          <li>
-            <a class="btn" href="#">afficher</a>
-          </li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-        <!-- Back -->
-        <ul class='hardcover_back'>
-          <li></li>
-          <li></li>
-        </ul>
-        <ul class='book_spine'>
-          <li></li>
-          <li></li>
-        </ul>
-      </figure>
-    </li>
-    <!-- End of Books -->
-  </ul>
-</div>
+<style>
+  p {
+    padding: 5px 2px 3px 2px;
+  }
+  
+  .cover-data-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  </style>
+  
+  <!-- Epithélioma développé sur Lupus -->
+  <div class="component">
+    <ul class="align">
+      <!-- Book 1 -->
+      <li>
+        <figure class='book'>
+          <!-- Front -->
+          <ul class='hardcover_front'>
+            <li>
+              <div class="coverDesign grey-1">
+                <div class="cover-data-center">
+                  <p style="font-size:20px;">_title1</p><p>_author1</p><p style="font-size:20px;">_year1</p>
+                </div>
+              </div>
+            </li>
+            <li></li>
+          </ul>
+          <!-- Pages -->
+          <ul class='page'>
+            <li></li>
+            <li>
+              <a class="btn" href="https://renouvaud.hosted.exlibrisgroup.com/permalink/f/gt86ri/_link1" target="_blank">afficher</a>
+            </li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          <!-- Back -->
+          <ul class='hardcover_back'>
+            <li></li>
+            <li></li>
+          </ul>
+          <ul class='book_spine'>
+            <li></li>
+            <li></li>
+          </ul>
+        </figure>
+      </li>
+      <!-- Book 2 -->
+      <li>
+        <figure class='book'>
+          <!-- Front -->
+          <ul class='hardcover_front'>
+            <li>
+              <div class="coverDesign grey-2">
+                <div class="cover-data-center">
+                  <p style="font-size:20px;">_title2</p><p>_author2</p><p style="font-size:20px;">_year2</p>
+                </div>
+              </div>
+            </li>
+            <li></li>
+          </ul>
+          <!-- Pages -->
+          <ul class='page'>
+            <li></li>
+            <li>
+              <a class="btn" href="https://renouvaud.hosted.exlibrisgroup.com/permalink/f/gt86ri/_link2" target="_blank">afficher</a>
+            </li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          <!-- Back -->
+          <ul class='hardcover_back'>
+            <li></li>
+            <li></li>
+          </ul>
+          <ul class='book_spine'>
+            <li></li>
+            <li></li>
+          </ul>
+        </figure>
+      </li>
+      <!-- Book 3 -->
+      <li>
+        <figure class='book'>
+          <!-- Front -->
+          <ul class='hardcover_front'>
+            <li>
+              <div class="coverDesign grey-3">
+                <div class="cover-data-center">
+                  <p style="font-size:20px;">_title3</p><p>_author3</p><p style="font-size:20px;">_year3</p>
+                </div>
+              </div>
+            </li>
+            <li></li>
+          </ul>
+          <!-- Pages -->
+          <ul class='page'>
+            <li></li>
+            <li>
+              <a class="btn" href="https://renouvaud.hosted.exlibrisgroup.com/permalink/f/gt86ri/_link3" target="_blank">afficher</a>
+            </li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          <!-- Back -->
+          <ul class='hardcover_back'>
+            <li></li>
+            <li></li>
+          </ul>
+          <ul class='book_spine'>
+            <li></li>
+            <li></li>
+          </ul>
+        </figure>
+      </li>
+      <!-- Book 4 -->
+      <li>
+        <figure class='book'>
+          <!-- Front -->
+          <ul class='hardcover_front'>
+            <li>
+              <div class="coverDesign grey-4">
+                <div class="cover-data-center">
+                  <p style="font-size:20px;">_title4</p><p>_author4</p><p style="font-size:20px;">_year4</p>
+                </div>
+              </div>
+            </li>
+            <li></li>
+          </ul>
+          <!-- Pages -->
+          <ul class='page'>
+            <li></li>
+            <li>
+              <a class="btn" href="https://renouvaud.hosted.exlibrisgroup.com/permalink/f/gt86ri/_link4" target="_blank">afficher</a>
+            </li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          <!-- Back -->
+          <ul class='hardcover_back'>
+            <li></li>
+            <li></li>
+          </ul>
+          <ul class='book_spine'>
+            <li></li>
+            <li></li>
+          </ul>
+        </figure>
+      </li>
+      <!-- Book 5 -->
+      <li>
+        <figure class='book'>
+          <!-- Front -->
+          <ul class='hardcover_front'>
+            <li>
+              <div class="coverDesign grey-5">
+                <div class="cover-data-center">
+                  <p style="font-size:20px;">_title5</p><p>_author5</p><p style="font-size:20px;">_year5</p>
+                </div>
+              </div>
+            </li>
+            <li></li>
+          </ul>
+          <!-- Pages -->
+          <ul class='page'>
+            <li></li>
+            <li>
+              <a class="btn" href="https://renouvaud.hosted.exlibrisgroup.com/permalink/f/gt86ri/_link5" target="_blank">afficher</a>
+            </li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          <!-- Back -->
+          <ul class='hardcover_back'>
+            <li></li>
+            <li></li>
+          </ul>
+          <ul class='book_spine'>
+            <li></li>
+            <li></li>
+          </ul>
+        </figure>
+      </li>
+      <!-- Book 6 -->
+      <li>
+        <figure class='book'>
+          <!-- Front -->
+          <ul class='hardcover_front'>
+            <li>
+              <div class="coverDesign grey-6">
+                <div class="cover-data-center">
+                  <p style="font-size:20px;">_title6</p><p>_author6</p><p style="font-size:20px;">_year6</p>
+                </div>
+              </div>
+            </li>
+            <li></li>
+          </ul>
+          <!-- Pages -->
+          <ul class='page'>
+            <li></li>
+            <li>
+              <a class="btn" href="https://renouvaud.hosted.exlibrisgroup.com/permalink/f/gt86ri/_link6" target="_blank">afficher</a>
+            </li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          <!-- Back -->
+          <ul class='hardcover_back'>
+            <li></li>
+            <li></li>
+          </ul>
+          <ul class='book_spine'>
+            <li></li>
+            <li></li>
+          </ul>
+        </figure>
+      </li>
+      <!-- End of Books -->
+    </ul>
+  </div>

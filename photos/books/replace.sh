@@ -2,7 +2,7 @@
 input="$1"
 html="$2"
 ##
-lines_array=(10 19 43 52 76 85 109 118 142 151 175 184)
+lines_array=(27 37 62 72 97 103 132 142 167 177 202 212)
 i=-1
 ##
 while IFS= read -r line
