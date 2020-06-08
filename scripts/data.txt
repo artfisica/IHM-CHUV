@@ -32,1935 +32,260 @@ replacement11=(
 ################################################################################
 ## Pemphigus foliace
 replacement12=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
+    _title1~"Leçons sur les maladies de la peau"
+    _author1~"Moriz Kaposi"
+    _year1~1881
+    _link1~41BCU_ALMA7147054040002851
+    _title2~"Précis de dermatologie"
+    _author2~"Jean Darier"
+    _year2~1928
+    _link2~41BCU_ALMA7156235800002851
+    _title3~"Dermatologie élémentaire"
+    _author3~"Jean Golay"
+    _year3~1941
+    _link3~41BCU_ALMA7151603150002851
+    _title4~"The William Bonardo collection of wax anatomical models"
+    _author4~"Christie's London"
+    _year4~2001
+    _link4~41BCU_ALMA7148465290002851
+    _title5~"Anatomy museum : \“death and the body displayed\""
+    _author5~"Elizabeth M Hallam"
+    _year5~2016
+    _link5~41BCU_ALMA7176789310002851
+    _title6~"125 Jahre Universitätsklinik für Dermatologie"
+    _author6~"Inselspital Bern"
+    _year6~2017
+    _link6~41BCU_ALMA7187349510002851
 )
 
 ################################################################################
-## 
+## Folliculites agminées. Kerion
 replacement13=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
+    _title1~"Abbildungen von Hautkrankheiten"
+    _author1~"Thomas Bateman"
+    _year1~1829
+    _link1~41BCU_ALMA7156626480002851
+    _title2~"Musée de l'Hôpital St. Louis : \"catalogue des moulages coloriés\""
+    _author2~"Léon Brodier"
+    _year2~1922
+    _link2~41BCU_ALMA7162991670002851
+    _title3~"Manual of dermatology"
+    _author3~"Donald M Pillsbury"
+    _year3~1943
+    _link3~41BCU_ALMA7161751900002851
+    _title4~"Saggio teorico-pratico sulle malattie cutanee sordide"
+    _author4~"Vincenzo Chiarugi"
+    _year4~1989
+    _link4~41BCU_ALMA7149222530002851
+    _title5~"Diseases in wax : \"the history of the medical moulage\""
+    _author5~"Thomas Schnalke"
+    _year5~1995
+    _link5~41BCU_ALMA7159957330002851
+    _title6~"Krankheit als Kunst(form) : \"Moulagen der Medizin\""
+    _author6~"Edgar Bierende ... [et al.]"
+    _year6~2016
+    _link6~41BCU_ALMA7175958260002851
 )
 
 ################################################################################
+## Lèpre tuberculeuse
 replacement14=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
+    _title1~"Iconographie des maladies cutanées et syphilitiques"
+    _author1~"Ernest Besnier ... [et al.]"
+    _year1~[1895-1897]
+    _link1~41BCU_ALMA7152428170002851
+    _title2~"Die Hautkrankheiten"
+    _author2~"Adolf Jarisch"
+    _year2~1900
+    _link2~41BCU_ALMA7148014020002851
+    _title3~"Photographies dermatologiques : \"diagnostics topographiques\""
+    _author3~"Robert Degos"
+    _year3~1952
+    _link3~41BCU_ALMA7157037030002851
+    _title4~"Skin disorders : \"aids to clinical practice\" : \"a series of cards\""
+    _author4~"CIBA"
+    _year4~"[ca. 1963]"
+    _link4~41BCU_ALMA7164000200002851
+    _title5~"Walking corpses : \"leprosy in Byzantium and the medieval West\""
+    _author5~"Timothy S Miller"
+    _year5~2014
+    _link5~41BCU_ALMA7157133400002851
+    _title6~"Writing on skin in the age of Chaucer"
+    _author6~"Nicole Nyffenegger ... [et al.]"
+    _year6~2018
+    _link6~41BCU_ALMA7188189690002851
 )
 
 ################################################################################
+## Morphée de sein
 replacement15=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
+    _title1~"Skin diseases : \"their description, pathology, diagnosis, and treatment\""
+    _author1~"Tilbury Fox"
+    _year1~1873
+    _link1~41BCU_ALMA7156867380002851
+    _title2~"Atlas der Hautkrankheiten"
+    _author2~"Eduard Jacobi"
+    _year2~1920
+    _link2~41BCU_ALMA7147389190002851
+    _title3~"A biographical dictionary of wax modellers"
+    _author3~"Edward J Pyke"
+    _year3~1973-1981
+    _link3~41BCU_ALMA7161305660002851
+    _title4~"Les seins : \"encyclopédie historique et bizarre des gorges, mamelles ...\""
+    _author4~"Martin Monestier"
+    _year4~2001
+    _link4~41BCU_ALMA7164508100002851
+    _title5~"Skin pictures : \"masterpiece photographs of nineteenth century dermatology\""
+    _author5~"Stanley B Burns"
+    _year5~2005
+    _link5~41BCU_ALMA7182187090002851
+    _title6~"Malleable anatomies"
+    _author6~"Lucia Dacome"
+    _year6~2017
+    _link6~41BCU_ALMA7178289560002851
 )
 
 ################################################################################
+## Keratodermie plantaire
 replacement16=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
+    _title1~"Die Hautkrankheiten durch anatomische Untersuchungen"
+    _author1~"Gustav Simon"
+    _year1~1851
+    _link1~41BCU_ALMA7154857210002851
+    _title2~"Ikonographia dermatologica"
+    _author2~"Albert Neisser ... [et al.]"
+    _year2~"1906-[?]"
+    _link2~41BCU_ALMA7156930780002851
+    _title3~"Cliniques dermatologiques"
+    _author3~"L. Brocq"
+    _year3~1927
+    _link3~41BCU_ALMA7163860280002851
+    _title4~"Practical dermatology"
+    _author4~"Ian B Sneddon \& Ronald E Church"
+    _year4~1966
+    _link4~41BCU_ALMA7152996060002851
+    _title5~"Die Moulagen-Sammlung der Frankfurter Hautklinik"
+    _author5~"Peter Altmeyer"
+    _year5~[1987]
+    _link5~41BCU_ALMA7146360400002851
+    _title6~"The anatomical Venus : \"wax, God, death \& the ecstatic\""
+    _author6~"Joanna Ebenstein"
+    _year6~2016
+    _link6~41BCU_ALMA7175729260002851
 )
 
 ################################################################################
+## Mycosis fongoïde
 replacement17=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
+    _title1~"Abrégé pratique des maladies de la peau"
+    _author1~"Alphée Cazenave"
+    _year1~1833
+    _link1~41BCU_ALMA7155782100002851
+    _title2~"Précis iconographique des maladies de la peau"
+    _author2~"Elie Chatelain"
+    _year2~1893
+    _link2~41BCU_ALMA7145044250002851
+    _title3~"Lehrbuch der Haut- und Geschlechtskrankheiten"
+    _author3~"S. Bettmann ... [et al.]"
+    _year3~1914
+    _link3~41BCU_ALMA7145882290002851
+    _title4~"Diagnostische Übungen Dermatologie : \"Bilder, Fragen, Antworten\""
+    _author4~"Gerald M Levene"
+    _year4~1987
+    _link4~41BCU_ALMA7160616570002851
+    _title5~"Skin : \"on the cultural border between self and the world\""
+    _author5~"Claudia Benthien"
+    _year5~2002
+    _link5~41BCU_ALMA7156839720002851
+    _title6~"Fungal disease in Britain and the United States 1850-2000"
+    _author6~"Aya Homei"
+    _year6~2013
+    _link6~41BCU_ALMA7146088040002851
 )
 
 ################################################################################
+## Ulcération arsenicale
 replacement18=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
+    _title1~"Les principes de la méthode naturelle appliqués à la classification ..."
+    _author1~"Charles Martins"
+    _year1~1834
+    _link1~41BCU_ALMA7156915090002851
+    _title2~"Les intoxications"
+    _author2~"Paul Brouardel"
+    _year2~1903
+    _link2~41BCU_ALMA7154334920002851
+    _title3~"Dermatologie des XIXe et XXe siècles : \"mutations et controverses\""
+    _author3~"Gérard Tilles"
+    _year3~2011
+    _link3~41BCU_ALMA7148611000002851
+    _title4~"King of poisons : \"a history of arsenic\""
+    _author4~"John Parascandola"
+    _year4~2012
+    _link4~41BCU_ALMA7154478430002851
+    _title5~"A medical history of skin : \"scratching the surface\""
+    _author5~"Jonathan Reinarz ... [et al.]"
+    _year5~2013
+    _link5~41BCU_ALMA7148376710002851
+    _title6~"A fleur de peau : \"Vienne 1900, de Klimt à Schiele et Kokoschka\""
+    _author6~"Catherine Lepdor ... [et al.]"
+    _year6~2020
+    _link6~41BCU_ALMA71100157890002851
 )
 
 ################################################################################
+## Instruments de chirurgie ophtalmique
 replacement19=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
+    _title1~"Contributions à l'histoire de la chirurgie oculaire chez les anciens"
+    _author1~"Andreas Anagnostakis"
+    _year1~1872
+    _link1~41BCU_ALMA7187099810002851
+    _title2~"Technique ophtalmologique"
+    _author2~"Albert Terson"
+    _year2~1898
+    _link2~41BCU_ALMA7156857220002851
+    _title3~"Über die Retrobulbäre Chirurgie der Orbita"
+    _author3~"Theodoor Domela-Nieuwenhuis"
+    _year3~1900
+    _link3~41BCU_ALMA7154803860002851
+    _title4~"Thérapeutique chirurgicale ophtalmologique"
+    _author4~"Camille Duverger"
+    _year4~1926
+    _link4~41BCU_ALMA7146256310002851
+    _title5~"Pronostic des brûlures oculaires après traitement chirurgical ou conservateur"
+    _author5~"Simone Nahman"
+    _year5~1958
+    _link5~41BCU_ALMA7150315050002851
+    _title6~"Ocularistes et yeux artificiels : \"de l'Antiquité au XXe siècle\""
+    _author6~"Jean-Pierre Martin"
+    _year6~2015
+    _link6~41BCU_ALMA7159032830002851
 )
 
 ################################################################################
+## Ophtalmoscope
 replacement110=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
+    _title1~"Practisches Handbuch der Augenheilkunde"
+    _author1~"Otto Werdmüller"
+    _year1~1849
+    _link1~41BCU_ALMA7148468660002851
+    _title2~"Ophtalmoscopie clinique"
+    _author2~"Louis de Wecker"
+    _year2~1881
+    _link2~41BCU_ALMA7151250240002851
+    _title3~"Les amblyopies et amauroses sans manifestations ophtalmoscopiques"
+    _author3~"Jules Gonin"
+    _year3~1909
+    _link3~41BCU_ALMA7151246850002851
+    _title4~"The ophthalmoscope: \"a contribution to the history\""
+    _author4~"Alfred Schett"
+    _year4~1996-1997
+    _link4~41BCU_ALMA7191219020002851
+    _title5~"Art \& ophthalmology : \"the impact of eye diseases on painters\""
+    _author5~"Philippe Lanthony"
+    _year5~2009
+    _link5~41BCU_ALMA7191229100002851
+    _title6~"Augenheilkunde von 1899 bis 1954 gelebt und gezeichnet"
+    _author6~"Balder P Gloor"
+    _year6~[2017]
+    _link6~41BCU_ALMA7173659660002851
 )
-
-################################################################################
-replacement21=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement22=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement23=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement24=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement25=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement26=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement27=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement28=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement29=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement210=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement31=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement32=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement33=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement34=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement35=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement36=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement37=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement38=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement39=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement310=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement41=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement42=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement43=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement44=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement45=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement46=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement47=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement48=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement49=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement410=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement51=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement52=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement53=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement54=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement55=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement56=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement57=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement58=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement59=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement510=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement61=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement62=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement63=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement64=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement65=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement66=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement67=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement68=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement69=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement610=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement71=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement72=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement73=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement74=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement75=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement76=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement77=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement78=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement79=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
-replacement710=(
-    _title1~
-    _author1~
-    _year1~
-    _link1~
-    _title2~
-    _author2~
-    _year2~
-    _link2~
-    _title3~
-    _author3~
-    _year3~
-    _link3~
-    _title4~
-    _author4~
-    _year4~
-    _link4~
-    _title5~
-    _author5~
-    _year5~
-    _link5~
-    _title6~
-    _author6~
-    _year6~
-    _link6~
-)
-
-################################################################################
