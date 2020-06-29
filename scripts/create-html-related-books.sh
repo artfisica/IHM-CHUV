@@ -3,6 +3,8 @@ source data.txt
 photo="$1"
 tail=`echo ${photo:0:1}.${photo:1:2}`
 
+echo $tail
+
 eval varAlias=( '"${replacement'${photo}'[@]}"' )
 for row in "${varAlias[@]}"
 do
