@@ -185,7 +185,7 @@ replacement17=(
     _author2~"Elie Chatelain"
     _year2~1893
     _link2~41BCU_ALMA7145044250002851
-    _title3~"Lehrbuch der Haut- und Geschlechtskrankheiten"
+    _title3~"Lehrbuch der Haut- und Geschlechtskrank- heiten"
     _author3~"S. Bettmann ... [et al.]"
     _year3~1914
     _link3~41BCU_ALMA7145882290002851
@@ -272,7 +272,7 @@ replacement110=(
     _author2~"Louis de Wecker"
     _year2~1881
     _link2~41BCU_ALMA7151250240002851
-    _title3~"Les amblyopies et amauroses sans manifestations ophtalmoscopiques"
+    _title3~"Les amblyopies et amauroses sans manifestations ophtalmosco- piques"
     _author3~"Jules Gonin"
     _year3~1909
     _link3~41BCU_ALMA7151246850002851
@@ -298,7 +298,7 @@ replacement21=(
     _year1~1856
     _link1~41BCU_ALMA7145723680002851
     _title2~"Handbuch der gesamten Augenheilkunde"
-    _author2~"A. Graefe & Th. Saemisch"
+    _author2~"A. Graefe \& Th. Saemisch"
     _year2~1899-1939
     _link2~41BCU_ALMA7162286090002851
     _title3~"La myopie héréditaire des Médicis"
@@ -505,7 +505,7 @@ replacement28=(
     _year2~1903
     _link2~41BCU_ALMA7147710780002851
     _title3~"Biologie und Pathologie des Weibes"
-    _author3~"Josef Halban & Ludwig Seitz"
+    _author3~"Josef Halban \& Ludwig Seitz"
     _year3~1924-1929
     _link3~41BCU_ALMA7155101610002851
     _title4~"The history of obstetrics and gynaecology"
@@ -513,7 +513,7 @@ replacement28=(
     _year4~2000
     _link4~41BCU_ALMA7155413870002851
     _title5~"Women and modern medicine"
-    _author5~"Lawrence Conrad & Anne Hardy"
+    _author5~"Lawrence Conrad \& Anne Hardy"
     _year5~2001
     _link5~41BCU_ALMA7163457810002851
     _title6~"Belly-Rippers, surgical innovation and the ovariotomy controversy"
@@ -584,7 +584,7 @@ replacement210=(
 ## Pessaires
 replacement31=(
     _title1~"Quelques mots sur les pessaires et sur une forme particulière de ces instruments"
-    _author1~"Matthias Louis Mayor"
+    _author1~"Matthias Louis..."
     _year1~1842
     _link1~41BCU_ALMA7163557730002851
     _title2~"Traitement médical des maladies des femmes"
@@ -600,7 +600,7 @@ replacement31=(
     _year4~1961
     _link4~41BCU_ALMA7146082140002851
     _title5~"Ginecología y patología sexual femenina en las Colecciones médicas de Oribasio"
-    _author5~"Mercedes López Pérez"
+    _author5~"Mercedes López"
     _year5~2016
     _link5~41BCU_ALMA7163005550002851
     _title6~"Le frisson et le baume : expériences féminines du corps au Siècle des lumières"
@@ -620,7 +620,7 @@ replacement32=(
     _author2~"Albert Döderlein"
     _year2~1912
     _link2~41BCU_ALMA7150168590002851
-    _title3~"Eternal Eve : the history of gynaecology & obstetrics"
+    _title3~"Eternal Eve : the history of gynaecology \& obstetrics"
     _author3~"Harvey Graham"
     _year3~1951
     _link3~41BCU_ALMA7148392740002851
@@ -628,7 +628,7 @@ replacement32=(
     _author4~"Claude Vanderpooten"
     _year4~1992
     _link4~41BCU_ALMA7156864820002851
-    _title5~"Popular medicine, hysterical disease, and social controversy in Shakespeare's England"
+    _title5~"Popular medicine, hysterical disease, and social controversy in Shakespeare..."
     _author5~"Kaara L Peterson"
     _year5~2010
     _link5~41BCU_ALMA7164279780002851
@@ -650,7 +650,7 @@ replacement33=(
     _year2~1891
     _link2~41BCU_ALMA7156156670002851
     _title3~"Instruments Esculape : [catalogue]"
-    _author3~"Jetter & Scheerer"
+    _author3~"Jetter \& Scheerer"
     _year3~[1900?]
     _link3~41BCU_ALMA7146485760002851
     _title4~"Traité de gynécologie pratique"
@@ -691,7 +691,7 @@ replacement34=(
     _year5~2013
     _link5~41BCU_ALMA7151000680002851
     _title6~"You're doing it wrong ! : mothering, media, and medical expertise"
-    _author6~"Bethany L Johnson"
+    _author6~"Bethany L J..."
     _year6~[2019]
     _link6~41BCU_ALMA7190699960002851
 )
@@ -711,7 +711,7 @@ replacement35=(
     _author3~"Adrien R Monnier"
     _year3~1922
     _link3~41BCU_ALMA7155545480002851
-    _title4~"Lebendige Phantome : ein Entbindungshospital und seine Patientinnen"
+    _title4~"Lebendige Phantome : ein Entbindungs- hospital und seine Patientinnen"
     _author4~"Jürgen Schlumbohm"
     _year4~2012
     _link4~41BCU_ALMA7142844630002851
@@ -720,7 +720,7 @@ replacement35=(
     _year5~[2016]
     _link5~41BCU_ALMA7181119760002851
     _title6~"The Palgrave handbook of infertility in history"
-    _author6~"Gayle Davis & Tracey Loughran"
+    _author6~"Gayle Davis \& Tracey Loughran"
     _year6~2017
     _link6~41BCU_ALMA7177698980002851
 )
@@ -1055,7 +1055,7 @@ replacement47=(
     _author2~"Richard Payne Cotton"
     _year2~1864
     _link2~41BCU_ALMA7161747970002851
-    _title3~"Considérations sur le diagnostic stéthoscopique des excavations pulmonaires"
+    _title3~"Considérations sur le diagnostic stéthoscopique excavations pulmonaires"
     _author3~"Edouard de Cérenville"
     _year3~[1913]
     _link3~41BCU_ALMA7162758710002851
@@ -1113,7 +1113,7 @@ replacement49=(
     _author2~"Heinrich Härtl"
     _year2~1940
     _link2~41BCU_ALMA7164927580002851
-    _title3~"Alternativen wozu? Diagnose und Therapie im Spannungsfeld zwischen konventionellen, neueren und alternativen Methoden ..."
+    _title3~"Alternativen wozu? Diagnose und Therapie im Spannungsfeld zwischen konventionellen,..."
     _author3~"Urs Krieger"
     _year3~1987
     _link3~41BCU_ALMA7157521210002851
@@ -1192,7 +1192,7 @@ replacement51=(
 ################################################################################
 ## Marteau à réflexes Taylor
 replacement52=(
-    _title1~"Structure anatomique et nature des individualités du système nerveux : anses réflexes physio-psychiques"
+    _title1~"Structure anatomique et nature des individualités du système nerveux : anses ..."
     _author1~"Ch Morin"
     _year1~1892
     _link1~41BCU_ALMA7144609380002851
@@ -1262,7 +1262,7 @@ replacement54=(
     _author3~"Audrey B Davis"
     _year3~1986
     _link3~41BCU_ALMA7144367170002851
-    _title4~"Histoire anecdotique des instruments médicaux : de l'abaisse-langue aux ventouses"
+    _title4~"Histoire anecdotique des instruments médicaux : de l'abaisse-langue aux..."
     _author4~"Isabelle Lévy"
     _year4~1995
     _link4~41BCU_ALMA7158807490002851
@@ -1557,7 +1557,7 @@ replacement64=(
     _year4~1998
     _link4~41BCU_ALMA7160581440002851
     _title5~"Beiträge zur Geschichte und Ethik der Zahnheilkunde"
-    _author5~"/ Dominik Gross"
+    _author5~"Dominik Gross"
     _year5~2006
     _link5~41BCU_ALMA7155760350002851
     _title6~"Histoire de l'anesthésie en odontologie de l'Antiquité au début du XXe siècle"
@@ -1598,7 +1598,7 @@ replacement65=(
 ################################################################################
 ## Amygdalotome
 replacement66=(
-    _title1~"Laryngoscopischer Atlas : nach der Natur gemalt und erläutert"
+    _title1~"Laryngoscopis- cher Atlas : nach der Natur gemalt und erläutert"
     _author1~"Ernst Burow"
     _year1~1877
     _link1~41BCU_ALMA7186257940002851
@@ -1618,7 +1618,7 @@ replacement66=(
     _author5~"Manfred Skopec"
     _year5~1998
     _link5~41BCU_ALMA7147452250002851
-    _title6~"Otorhinolaryngology : an illustrated history"
+    _title6~"Otorhinolaryn-gology : an illustrated history"
     _author6~"Neil Weir"
     _year6~2013
     _link6~41BCU_ALMA7157963740002851
@@ -1647,7 +1647,7 @@ replacement67=(
     _author5~"Tilman Brusis"
     _year5~2002
     _link5~41BCU_ALMA7156160130002851
-    _title6~"Otorhinolaryngology (ORL) in Europe between 1880 and 1920"
+    _title6~"Otorhinolaryn- gology (ORL) in Europe between 1880 and 1920"
     _author6~"Albert Mudry ... [et al.]"
     _year6~2005
     _link6~41BCU_ALMA7151266170002851
@@ -1751,7 +1751,7 @@ replacement71=(
     _author2~"Paul Hariot"
     _year2~1909
     _link2~41BCU_ALMA7147736190002851
-    _title3~"Etude critique de 200 expertises de soldats atteints d'affections des voies respiratoires"
+    _title3~"Etude critique de 200 expertises de soldats-atteints d'affections des voies ..."
     _author3~"Alfred Dudan"
     _year3~1933
     _link3~41BCU_ALMA7151981180002851
@@ -1802,7 +1802,7 @@ replacement72=(
 ## Trousse de pharmacie homéopathique
 replacement73=(
     _title1~"Notices élémentaires sur l'homéopathie et la manière de la pratiquer"
-    _author1~"G Heinrich & G Jahr"
+    _author1~"G Heinrich \& G Jahr"
     _year1~1839
     _link1~41BCU_ALMA7141958000002851
     _title2~"Pocket manual of homoeopathic materia medica"
@@ -1813,7 +1813,7 @@ replacement73=(
     _author3~"Richard Grossinger"
     _year3~1980
     _link3~41BCU_ALMA7142854890002851
-    _title4~"Homöopathie an deutschsprachigen Universitäten"
+    _title4~"Homöopathie an deutschspra- chigen Universitäten"
     _author4~"Christian Lucae"
     _year4~1998
     _link4~41BCU_ALMA7148487510002851
@@ -1843,7 +1843,7 @@ replacement74=(
     _year3~1981
     _link3~41BCU_ALMA7146423800002851
     _title4~"Strömung, Kraft und Nebenwirkung : eine Geschichte der Basler Pharmazie"
-    _author4~"Michael Kessler... [et al.]"
+    _author4~"Michael Kessler..."
     _year4~[2001]
     _link4~41BCU_ALMA7149593880002851
     _title5~"The drug book : from arsenic to Xanax"
@@ -1859,7 +1859,7 @@ replacement74=(
 ################################################################################
 ## Pilon
 replacement75=(
-    _title1~"Die neuern Arzneimittel : ihre physischen und chemischen Eigenschaften ..."
+    _title1~"Die neuern Arzneimittel : ihre physischen und chemischen Eigenschaften..."
     _author1~"Viktor A Riecke"
     _year1~1837
     _link1~41BCU_ALMA7144626680002851
@@ -1896,12 +1896,12 @@ replacement76=(
     _author2~"Frederik Jacobus Johannes Buytendijk"
     _year2~1948
     _link2~41BCU_ALMA7157120530002851
-    _title3~"Plaquette éditée à l'occasion du 100e anniversaire de la Société de pharmacie ..."
-    _author3~"[Jaques Vernet... et al.]"
+    _title3~"Plaquette éditée à l'occasion du 100e anniversaire de la Société de pharmacie..."
+    _author3~"[Jaques Vernet...]"
     _year3~[1989]
     _link3~41BCU_ALMA7151671130002851
     _title4~"Innovation in pain management"
-    _author4~"L.A. Reynolds ... [et al.]"
+    _author4~"L.A. Reynolds... [et al.]"
     _year4~2004
     _link4~41BCU_ALMA7151658370002851
     _title5~"Pain and emotion in modern history"
@@ -2012,7 +2012,7 @@ replacement710=(
     _author2~"Hugh Crichton-Miller"
     _year2~1930
     _link2~41BCU_ALMA7160356130002851
-    _title3~"Electroencephalography (EEG) of human sleep : clinical applications"
+    _title3~"Electroencepha- lography (EEG) of human sleep : clinical applications"
     _author3~"Robert L Williams"
     _year3~1974
     _link3~41BCU_ALMA7154212870002851
