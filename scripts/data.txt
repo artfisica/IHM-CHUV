@@ -48,7 +48,7 @@ replacement12=(
     _author4~"Christie's London"
     _year4~2001
     _link4~41BCU_ALMA7148465290002851
-    _title5~"Anatomy museum : \“death and the body displayed\""
+    _title5~"Anatomy museum : death and the body displayed"
     _author5~"Elizabeth M Hallam"
     _year5~2016
     _link5~41BCU_ALMA7176789310002851
@@ -65,7 +65,7 @@ replacement13=(
     _author1~"Thomas Bateman"
     _year1~1829
     _link1~41BCU_ALMA7156626480002851
-    _title2~"Musée de l'Hôpital St. Louis : \"catalogue des moulages coloriés\""
+    _title2~"Musée de l'Hôpital St. Louis : catalogue des moulages coloriés"
     _author2~"Léon Brodier"
     _year2~1922
     _link2~41BCU_ALMA7162991670002851
@@ -77,11 +77,11 @@ replacement13=(
     _author4~"Vincenzo Chiarugi"
     _year4~1989
     _link4~41BCU_ALMA7149222530002851
-    _title5~"Diseases in wax : \"the history of the medical moulage\""
+    _title5~"Diseases in wax : the history of the medical moulage"
     _author5~"Thomas Schnalke"
     _year5~1995
     _link5~41BCU_ALMA7159957330002851
-    _title6~"Krankheit als Kunst(form) : \"Moulagen der Medizin\""
+    _title6~"Krankheit als Kunst(form) : Moulagen der Medizin"
     _author6~"Edgar Bierende ... [et al.]"
     _year6~2016
     _link6~41BCU_ALMA7175958260002851
@@ -98,15 +98,15 @@ replacement14=(
     _author2~"Adolf Jarisch"
     _year2~1900
     _link2~41BCU_ALMA7148014020002851
-    _title3~"Photographies dermatologiques : \"diagnostics topographiques\""
+    _title3~"Photographies dermatologiques : diagnostics topographiques"
     _author3~"Robert Degos"
     _year3~1952
     _link3~41BCU_ALMA7157037030002851
-    _title4~"Skin disorders : \"aids to clinical practice\" : \"a series of cards\""
+    _title4~"Skin disorders : aids to clinical practice : a series of cards"
     _author4~"CIBA"
     _year4~"[ca. 1963]"
     _link4~41BCU_ALMA7164000200002851
-    _title5~"Walking corpses : \"leprosy in Byzantium and the medieval West\""
+    _title5~"Walking corpses : leprosy in Byzantium and the medieval West"
     _author5~"Timothy S Miller"
     _year5~2014
     _link5~41BCU_ALMA7157133400002851
@@ -119,7 +119,7 @@ replacement14=(
 ################################################################################
 ## Morphée de sein
 replacement15=(
-    _title1~"Skin diseases : \"their description, pathology, diagnosis, and treatment\""
+    _title1~"Skin diseases : their description, pathology, diagnosis, and treatment"
     _author1~"Tilbury Fox"
     _year1~1873
     _link1~41BCU_ALMA7156867380002851
@@ -131,11 +131,11 @@ replacement15=(
     _author3~"Edward J Pyke"
     _year3~1973-1981
     _link3~41BCU_ALMA7161305660002851
-    _title4~"Les seins : \"encyclopédie historique et bizarre des gorges, mamelles ...\""
+    _title4~"Les seins : encyclopédie historique et bizarre des gorges, mamelles ..."
     _author4~"Martin Monestier"
     _year4~2001
     _link4~41BCU_ALMA7164508100002851
-    _title5~"Skin pictures : \"masterpiece photographs of nineteenth century dermatology\""
+    _title5~"Skin pictures : masterpiece photographs of nineteenth century dermatology"
     _author5~"Stanley B Burns"
     _year5~2005
     _link5~41BCU_ALMA7182187090002851
@@ -168,7 +168,7 @@ replacement16=(
     _author5~"Peter Altmeyer"
     _year5~[1987]
     _link5~41BCU_ALMA7146360400002851
-    _title6~"The anatomical Venus : \"wax, God, death \& the ecstatic\""
+    _title6~"The anatomical Venus : wax, God, death \& the ecstatic"
     _author6~"Joanna Ebenstein"
     _year6~2016
     _link6~41BCU_ALMA7175729260002851
@@ -189,11 +189,11 @@ replacement17=(
     _author3~"S. Bettmann ... [et al.]"
     _year3~1914
     _link3~41BCU_ALMA7145882290002851
-    _title4~"Diagnostische Übungen Dermatologie : \"Bilder, Fragen, Antworten\""
+    _title4~"Diagnostische Übungen Dermatologie : Bilder, Fragen, Antworten"
     _author4~"Gerald M Levene"
     _year4~1987
     _link4~41BCU_ALMA7160616570002851
-    _title5~"Skin : \"on the cultural border between self and the world\""
+    _title5~"Skin : on the cultural border between self and the world"
     _author5~"Claudia Benthien"
     _year5~2002
     _link5~41BCU_ALMA7156839720002851
@@ -214,19 +214,19 @@ replacement18=(
     _author2~"Paul Brouardel"
     _year2~1903
     _link2~41BCU_ALMA7154334920002851
-    _title3~"Dermatologie des XIXe et XXe siècles : \"mutations et controverses\""
+    _title3~"Dermatologie des XIXe et XXe siècles : mutations et controverses"
     _author3~"Gérard Tilles"
     _year3~2011
     _link3~41BCU_ALMA7148611000002851
-    _title4~"King of poisons : \"a history of arsenic\""
+    _title4~"King of poisons : a history of arsenic"
     _author4~"John Parascandola"
     _year4~2012
     _link4~41BCU_ALMA7154478430002851
-    _title5~"A medical history of skin : \"scratching the surface\""
+    _title5~"A medical history of skin : scratching the surface"
     _author5~"Jonathan Reinarz ... [et al.]"
     _year5~2013
     _link5~41BCU_ALMA7148376710002851
-    _title6~"A fleur de peau : \"Vienne 1900, de Klimt à Schiele et Kokoschka\""
+    _title6~"A fleur de peau : Vienne 1900, de Klimt à Schiele et Kokoschka"
     _author6~"Catherine Lepdor ... [et al.]"
     _year6~2020
     _link6~41BCU_ALMA71100157890002851
@@ -255,7 +255,7 @@ replacement19=(
     _author5~"Simone Nahman"
     _year5~1958
     _link5~41BCU_ALMA7150315050002851
-    _title6~"Ocularistes et yeux artificiels : \"de l'Antiquité au XXe siècle\""
+    _title6~"Ocularistes et yeux artificiels : de l'Antiquité au XXe siècle"
     _author6~"Jean-Pierre Martin"
     _year6~2015
     _link6~41BCU_ALMA7159032830002851
@@ -276,11 +276,11 @@ replacement110=(
     _author3~"Jules Gonin"
     _year3~1909
     _link3~41BCU_ALMA7151246850002851
-    _title4~"The ophthalmoscope: \"a contribution to the history\""
+    _title4~"The ophthalmoscope: a contribution to the history"
     _author4~"Alfred Schett"
     _year4~1996-1997
     _link4~41BCU_ALMA7191219020002851
-    _title5~"Art \& ophthalmology : \"the impact of eye diseases on painters\""
+    _title5~"Art \& ophthalmology : the impact of eye diseases on painters"
     _author5~"Philippe Lanthony"
     _year5~2009
     _link5~41BCU_ALMA7191229100002851
@@ -305,11 +305,11 @@ replacement21=(
     _author3~"Louis Alaerts"
     _year3~1958
     _link3~41BCU_ALMA7185249950002851
-    _title4~"Les lunettes : \"[d'après la collection Pierre Marly]\""
+    _title4~"Les lunettes : [d'après la collection Pierre Marly]"
     _author4~""
     _year4~1980
     _link4~41BCU_ALMA7163183750002851
-    _title5~"Gli occhiali = \"Spectacles\""
+    _title5~"Gli occhiali = Spectacles"
     _author5~"Franca Acerenza"
     _year5~1994
     _link5~41BCU_ALMA7185165790002851
@@ -338,7 +338,7 @@ replacement22=(
     _author4~"William Poulet"
     _year4~1978-1980
     _link4~41BCU_ALMA7191329460002851
-    _title5~"A spectacle of spectacles : \"exhibition catalogue\""
+    _title5~"A spectacle of spectacles : exhibition catalogue"
     _author5~"Carl Zeiss Stiftung Jena"
     _year5~1988
     _link5~41BCU_ALMA7188604870002851
@@ -367,11 +367,11 @@ replacement23=(
     _author4~"Wolfgang Jaeger"
     _year4~"[ca 1977]"
     _link4~41BCU_ALMA7162500250002851
-    _title5~"Helmholtz : \"from enlightenment to neuroscience\""
+    _title5~"Helmholtz : from enlightenment to neuroscience"
     _author5~"Michel Meulders"
     _year5~2010
     _link5~41BCU_ALMA7152585030002851
-    _title6~"As far as eye can see : \"a history of seeing\""
+    _title6~"As far as eye can see : a history of seeing"
     _author6~"S Denham Wade"
     _year6~2019
     _link6~41BCU_ALMA7196379530002851
@@ -388,7 +388,7 @@ replacement24=(
     _author2~"Marc Dufour"
     _year2~1906
     _link2~41BCU_ALMA7151646230002851
-    _title3~"Le décollement de la rétine : \"pathogénie, traitement\""
+    _title3~"Le décollement de la rétine : pathogénie, traitement"
     _author3~"Jules Gonin"
     _year3~1934
     _link3~41BCU_ALMA7151246470002851
@@ -400,7 +400,7 @@ replacement24=(
     _author5~"Frederick C Blodi"
     _year5~1986
     _link5~41BCU_ALMA7191269670002851
-    _title6~"Ophthalmology : \"a photographic history 1845-1945\""
+    _title6~"Ophthalmology : a photographic history 1845-1945"
     _author6~"Stanley B Burns"
     _year6~2009
     _link6~41BCU_ALMA7182309550002851
@@ -421,7 +421,7 @@ replacement25=(
     _author3~"Rudolf Thiel"
     _year3~1948
     _link3~41BCU_ALMA7154567750002851
-    _title4~"L'œil, le cerveau et la vision : \"les étapes cérébrales du traitement visuel\""
+    _title4~"L'œil, le cerveau et la vision : les étapes cérébrales du traitement visuel"
     _author4~"David H Hubel"
     _year4~1994
     _link4~41BCU_ALMA7142869470002851
@@ -438,7 +438,7 @@ replacement25=(
 ################################################################################
 ## Coffret pour le nettoyage du canal lacrymal
 replacement26=(
-    _title1~"Descriptio anatomica oculi humani : \"iconibus illustrata\""
+    _title1~"Descriptio anatomica oculi humani : iconibus illustrata"
     _author1~"Johann G Zinn"
     _year1~1780
     _link1~41BCU_ALMA7157009460002851
@@ -471,7 +471,7 @@ replacement27=(
     _author1~"Joseph Capuron"
     _year1~1823
     _link1~41BCU_ALMA7186139650002851
-    _title2~"Caesarean section : \"the history and development of the operation ...\""
+    _title2~"Caesarean section : the history and development of the operation ..."
     _author2~"John Harley Young"
     _year2~1944
     _link2~41BCU_ALMA7154773050002851
@@ -479,15 +479,15 @@ replacement27=(
     _author3~"Franco Crainz"
     _year3~1977
     _link3~41BCU_ALMA7186599010002851
-    _title4~"Geburt : \"eine Kulturgeschichte in Bildern\""
+    _title4~"Geburt : eine Kulturgeschichte in Bildern"
     _author4~"Friedrich von Zglinicki"
     _year4~1983
     _link4~41BCU_ALMA7148393200002851
-    _title5~"Birth in Babylonia and the Bible : \"its mediterranean setting\""
+    _title5~"Birth in Babylonia and the Bible : its mediterranean setting"
     _author5~"Marten Stol"
     _year5~2000
     _link5~41BCU_ALMA7162407650002851
-    _title6~"Naître à la maison : \"d'hier à aujourd'hui\""
+    _title6~"Naître à la maison : d'hier à aujourd'hui"
     _author6~"Marie-France Morel ... [et al.]"
     _year6~2016
     _link6~41BCU_ALMA7170916780002851
@@ -533,7 +533,7 @@ replacement29=(
     _author2~"Oscar J Rapin"
     _year2~"[ca 1903]"
     _link2~41BCU_ALMA7148676420002851
-    _title3~"Naître au moyen âge : \"de la conception à la naissance\""
+    _title3~"Naître au moyen âge : de la conception à la naissance"
     _author3~"Sylvie Laurent"
     _year3~1989
     _link3~41BCU_ALMA7147395710002851
@@ -570,11 +570,11 @@ replacement210=(
     _author4~"A. M. Le Boursier Du Coudray"
     _year4~1976
     _link4~41BCU_ALMA7185745200002851
-    _title5~"Reading birth and death : \"a history of obstetric thinking\""
+    _title5~"Reading birth and death : a history of obstetric thinking"
     _author5~"Jo Murphy-Lawless"
     _year5~1998
     _link5~41BCU_ALMA7143558750002851
-    _title6~"Histoire de naître : \"de l'enfantement primitif à l'accouchement médicalisé\""
+    _title6~"Histoire de naître : de l'enfantement primitif à l'accouchement médicalisé"
     _author6~"Fernand Leroy"
     _year6~2002
     _link6~41BCU_ALMA7145535760002851
@@ -603,7 +603,7 @@ replacement31=(
     _author5~"Mercedes López Pérez"
     _year5~2016
     _link5~41BCU_ALMA7163005550002851
-    _title6~"Le frisson et le baume : \"expériences féminines du corps au Siècle des lumières\""
+    _title6~"Le frisson et le baume : expériences féminines du corps au Siècle des lumières"
     _author6~"Nahema Hanafi"
     _year6~2017
     _link6~41BCU_ALMA7174857020002851
@@ -612,7 +612,7 @@ replacement31=(
 ################################################################################
 ## Sondes utérines
 replacement32=(
-    _title1~"La femme : \"sa beauté - sa santé - son hygiène\""
+    _title1~"La femme : sa beauté - sa santé - son hygiène"
     _author1~"René Vaucaire"
     _year1~1896
     _link1~41BCU_ALMA7186268650002851
@@ -620,11 +620,11 @@ replacement32=(
     _author2~"Albert Döderlein"
     _year2~1912
     _link2~41BCU_ALMA7150168590002851
-    _title3~"Eternal Eve : \"the history of gynaecology & obstetrics\""
+    _title3~"Eternal Eve : the history of gynaecology & obstetrics"
     _author3~"Harvey Graham"
     _year3~1951
     _link3~41BCU_ALMA7148392740002851
-    _title4~"Samuel Pozzi : \"chirurgien et ami des femmes\""
+    _title4~"Samuel Pozzi : chirurgien et ami des femmes"
     _author4~"Claude Vanderpooten"
     _year4~1992
     _link4~41BCU_ALMA7156864820002851
@@ -649,7 +649,7 @@ replacement33=(
     _author2~"Johann Veit"
     _year2~1891
     _link2~41BCU_ALMA7156156670002851
-    _title3~"Instruments Esculape : \"[catalogue]\""
+    _title3~"Instruments Esculape : [catalogue]"
     _author3~"Jetter & Scheerer"
     _year3~[1900?]
     _link3~41BCU_ALMA7146485760002851
@@ -661,7 +661,7 @@ replacement33=(
     _author5~"Stefano Pellicanò"
     _year5~2011
     _link5~41BCU_ALMA7155089090002851
-    _title6~"Graphic reproduction : \"a comics anthology\""
+    _title6~"Graphic reproduction : a comics anthology"
     _author6~"Jenell Johnson"
     _year6~[2018]
     _link6~41BCU_ALMA7181309200002851
@@ -678,11 +678,11 @@ replacement34=(
     _author2~"Antoine B Marfan"
     _year2~1930
     _link2~41BCU_ALMA7145015090002851
-    _title3~"D'amour et de lait ... : \"ouvrage collectif sur l'allaitement maternel\""
+    _title3~"D'amour et de lait ... : ouvrage collectif sur l'allaitement maternel"
     _author3~"Etienne Herbinet"
     _year3~1989
     _link3~41BCU_ALMA7160728520002851
-    _title4~"Maternal measures : \"figuring caregiving in the early modern period\""
+    _title4~"Maternal measures : figuring caregiving in the early modern period"
     _author4~"Naomi J Miller ... [et al.]"
     _year4~2000
     _link4~41BCU_ALMA7163551920002851
@@ -690,7 +690,7 @@ replacement34=(
     _author5~"Manuel Juaneda-Magdalena"
     _year5~2013
     _link5~41BCU_ALMA7151000680002851
-    _title6~"You're doing it wrong ! : \"mothering, media, and medical expertise\""
+    _title6~"You're doing it wrong ! : mothering, media, and medical expertise"
     _author6~"Bethany L Johnson"
     _year6~[2019]
     _link6~41BCU_ALMA7190699960002851
@@ -703,7 +703,7 @@ replacement35=(
     _author1~"Joseph Gérard"
     _year1~1888
     _link1~41BCU_ALMA7144954000002851
-    _title2~"L'utero attraverso i secoli : \"da Erofilo ai giorni nostri\""
+    _title2~"L'utero attraverso i secoli : da Erofilo ai giorni nostri"
     _author2~"Felice La Torre"
     _year2~1917
     _link2~41BCU_ALMA7147756560002851
@@ -711,11 +711,11 @@ replacement35=(
     _author3~"Adrien R Monnier"
     _year3~1922
     _link3~41BCU_ALMA7155545480002851
-    _title4~"Lebendige Phantome : \"ein Entbindungshospital und seine Patientinnen\""
+    _title4~"Lebendige Phantome : ein Entbindungshospital und seine Patientinnen"
     _author4~"Jürgen Schlumbohm"
     _year4~2012
     _link4~41BCU_ALMA7142844630002851
-    _title5~"Infertility : \"tracing the history of a transformative term\""
+    _title5~"Infertility : tracing the history of a transformative term"
     _author5~"Robin E Jensen"
     _year5~[2016]
     _link5~41BCU_ALMA7181119760002851
@@ -732,11 +732,11 @@ replacement36=(
     _author1~"Johann-Friedrich Dieffenbach"
     _year1~1847
     _link1~41BCU_ALMA7147599880002851
-    _title2~"La narcose : \"théorie et pratique\""
+    _title2~"La narcose : théorie et pratique"
     _author2~"Th Hammes"
     _year2~1913
     _link2~41BCU_ALMA7145826200002851
-    _title3~"The conquest of pain : \"the story of anaesthesia\""
+    _title3~"The conquest of pain : the story of anaesthesia"
     _author3~"George Bankoff"
     _year3~"[ca 1940]"
     _link3~41BCU_ALMA7156374030002851
@@ -765,7 +765,7 @@ replacement37=(
     _author2~"Max Egger"
     _year2~1915
     _link2~41BCU_ALMA7154007090002851
-    _title3~"La victoire sur la douleur : \"histoire de la découverte des anesthésiques\""
+    _title3~"La victoire sur la douleur : histoire de la découverte des anesthésiques"
     _author3~"René Fülöp-Miller"
     _year3~1940
     _link3~41BCU_ALMA7152797980002851
@@ -786,7 +786,7 @@ replacement37=(
 ################################################################################
 ## Flacon à chloroforme
 replacement38=(
-    _title1~"Les anesthésiques : \"physiologie et applications chirurgicales\""
+    _title1~"Les anesthésiques : physiologie et applications chirurgicales"
     _author1~"Albert Dastre"
     _year1~1890
     _link1~41BCU_ALMA7158068390002851
@@ -794,11 +794,11 @@ replacement38=(
     _author2~"Marguerite-Louise Baur"
     _year2~1927
     _link2~41BCU_ALMA7160496870002851
-    _title3~"Inhalation anesthesia : \"a fundamental guide\""
+    _title3~"Inhalation anesthesia : a fundamental guide"
     _author3~"Arthur E Guedel"
     _year3~1947
     _link3~41BCU_ALMA7157759590002851
-    _title4~"Selection of anesthesia : \"the physiological and pharmacological basis\""
+    _title4~"Selection of anesthesia : the physiological and pharmacological basis"
     _author4~"John Adriani"
     _year4~1955
     _link4~41BCU_ALMA7150746220002851
@@ -806,7 +806,7 @@ replacement38=(
     _author5~"Donald Caton"
     _year5~1999
     _link5~41BCU_ALMA7160877040002851
-    _title6~"Blessed days of anaesthesia : \"how anaesthetics changed the world\""
+    _title6~"Blessed days of anaesthesia : how anaesthetics changed the world"
     _author6~"Stephanie J Snow"
     _year6~2008
     _link6~41BCU_ALMA7144246990002851
@@ -827,7 +827,7 @@ replacement39=(
     _author3~"Barbara M Duncum"
     _year3~1947
     _link3~41BCU_ALMA7152015580002851
-    _title4~"Anesthesia : \"thief of pain\""
+    _title4~"Anesthesia : thief of pain"
     _author4~"Sylvan Myron Elliot Shane"
     _year4~1956
     _link4~41BCU_ALMA7161305480002851
@@ -835,7 +835,7 @@ replacement39=(
     _author5~"Ludwig Brandt"
     _year5~1997
     _link5~41BCU_ALMA7157906810002851
-    _title6~"Histoire de la douleur : \"XVIe-XXe siècle\""
+    _title6~"Histoire de la douleur : XVIe-XXe siècle"
     _author6~"Javier Moscoso"
     _year6~2015
     _link6~41BCU_ALMA7151177590002851
@@ -848,7 +848,7 @@ replacement310=(
     _author1~"Samuel Sharp"
     _year1~1751
     _link1~41BCU_ALMA7143844060002851
-    _title2~"Sammlung klinischer Vorträge : \"Chirurgie\""
+    _title2~"Sammlung klinischer Vorträge : Chirurgie"
     _author2~"Richard Volkmann"
     _year2~"[ca. 1869-1884]"
     _link2~41BCU_ALMA7152879810002851
@@ -881,7 +881,7 @@ replacement41=(
     _author2~"Léon Gallez"
     _year2~1893
     _link2~41BCU_ALMA7154253160002851
-    _title3~"La trepanación en España : \"clásicos neuroquirúrgicos españoles\""
+    _title3~"La trepanación en España : clásicos neuroquirúrgicos españoles"
     _author3~"Jose M Lopez Piñero"
     _year3~1967
     _link3~41BCU_ALMA7146640680002851
@@ -889,11 +889,11 @@ replacement41=(
     _author4~"Roman Fischer"
     _year4~1997
     _link4~41BCU_ALMA7157568200002851
-    _title5~"Trepanation : \"history, discovery, theory\""
+    _title5~"Trepanation : history, discovery, theory"
     _author5~"Robert Arnott ... [et al.]"
     _year5~2003
     _link5~41BCU_ALMA7161999910002851
-    _title6~"Holes in the head : \"the art and archaeology of trepanation in ancient Peru\""
+    _title6~"Holes in the head : the art and archaeology of trepanation in ancient Peru"
     _author6~"John W Verano"
     _year6~2016
     _link6~41BCU_ALMA7147418360002851
@@ -918,7 +918,7 @@ replacement42=(
     _author4~"John Kirkup"
     _year4~2007
     _link4~41BCU_ALMA7148953300002851
-    _title5~"Le corps accidenté : \"bouleversements identitaires et reconstruction de soi\""
+    _title5~"Le corps accidenté : bouleversements identitaires et reconstruction de soi"
     _author5~"Peggy Tessier"
     _year5~2015
     _link5~41BCU_ALMA7163545120002851
@@ -947,11 +947,11 @@ replacement43=(
     _author4~"Oskar Rosenthal"
     _year4~1925
     _link4~41BCU_ALMA7153342950002851
-    _title5~"Unhealed wounds : \"medical malpractice in the twentieth century\""
+    _title5~"Unhealed wounds : medical malpractice in the twentieth century"
     _author5~"Neal C Hogan"
     _year5~2003
     _link5~41BCU_ALMA7161621070002851
-    _title6~"Les tables d'opération : \"de l'Antiquité à nos jours\""
+    _title6~"Les tables d'opération : de l'Antiquité à nos jours"
     _author6~"Michel A Germai"
     _year6~"DL 2016"
     _link6~41BCU_ALMA7176869610002851
@@ -960,7 +960,7 @@ replacement43=(
 ################################################################################
 ## [Instrument de chirurgie ?]
 replacement44=(
-    _title1~"The mechanics of surgery : \"(1899)\""
+    _title1~"The mechanics of surgery : (1899)"
     _author1~"Charles Truax"
     _year1~1988
     _link1~41BCU_ALMA7152448980002851
@@ -976,11 +976,11 @@ replacement44=(
     _author4~"John Kirkup"
     _year4~2006
     _link4~41BCU_ALMA7157877830002851
-    _title5~"Of life and limb : \"surgical repair of the arteries in war and peace\""
+    _title5~"Of life and limb : surgical repair of the arteries in war and peace"
     _author5~"Justin Barr"
     _year5~2019
     _link5~41BCU_ALMA7199518370002851
-    _title6~"The invention of surgery : \"a history of modern medicine\""
+    _title6~"The invention of surgery : a history of modern medicine"
     _author6~"David Schneider"
     _year6~2020
     _link6~41BCU_ALMA71101329880002851
@@ -1001,7 +1001,7 @@ replacement45=(
     _author3~"Maurice Guibé"
     _year3~1926
     _link3~41BCU_ALMA7145855950002851
-    _title4~"Local analgesia : \"abdominal surgery\""
+    _title4~"Local analgesia : abdominal surgery"
     _author4~"Robert Reynolds Macintosh"
     _year4~1953
     _link4~41BCU_ALMA7146959030002851
@@ -1026,7 +1026,7 @@ replacement46=(
     _author2~"G Dupuytren"
     _year2~1837
     _link2~41BCU_ALMA7142215890002851
-    _title3~"La formation d'un grand chirurgien : \"le milieu et l'époque dans l'œuvre de Dupuytren\""
+    _title3~"La formation d'un grand chirurgien : le milieu et l'époque dans l'œuvre de Dupuytren"
     _author3~"Paul Ganière"
     _year3~1933
     _link3~41BCU_ALMA7155174240002851
@@ -1034,11 +1034,11 @@ replacement46=(
     _author4~"Ernst N Henkel"
     _year4~1958
     _link4~41BCU_ALMA7154375210002851
-    _title5~"Guillaume Dupuytren : \"a surgeon in his place and time\""
+    _title5~"Guillaume Dupuytren : a surgeon in his place and time"
     _author5~"Hannah K Barsky"
     _year5~1984
     _link5~41BCU_ALMA7149589060002851
-    _title6~"Die Steinschneider : \"eine Kulturgeschichte menschlichen Leidens und ärztlicher Kunst\""
+    _title6~"Die Steinschneider : eine Kulturgeschichte menschlichen Leidens und ärztlicher Kunst"
     _author6~"Dieter Hauri"
     _year6~2013
     _link6~41BCU_ALMA7157082450002851
@@ -1059,7 +1059,7 @@ replacement47=(
     _author3~"Edouard de Cérenville"
     _year3~[1913]
     _link3~41BCU_ALMA7162758710002851
-    _title4~"Difficult diagnosis : \"a guide to the interpretation of obscure illness\""
+    _title4~"Difficult diagnosis : a guide to the interpretation of obscure illness"
     _author4~"Hyman J Roberts"
     _year4~1958
     _link4~41BCU_ALMA7144388370002851
@@ -1067,7 +1067,7 @@ replacement47=(
     _author5~"William Stokes"
     _year5~1977
     _link5~41BCU_ALMA7154764140002851
-    _title6~"Verità e cura : \"dalla diagnosi al placebo, l'etica dell'inganno in medicina\""
+    _title6~"Verità e cura : dalla diagnosi al placebo, l'etica dell'inganno in medicina"
     _author6~"Marco Annoni"
     _year6~[2019]
     _link6~41BCU_ALMA7192829480002851
@@ -1092,11 +1092,11 @@ replacement48=(
     _author4~"Barbara Schmidt"
     _year4~1966
     _link4~41BCU_ALMA7143233160002851
-    _title5~"Pulse diagnosis in early Chinese medicine : \"the telling touch\""
+    _title5~"Pulse diagnosis in early Chinese medicine : the telling touch"
     _author5~"Elisabeth Hsu"
     _year5~2010
     _link5~41BCU_ALMA7159921850002851
-    _title6~"Hearing and the hospital : \"sound, listening, knowledge and experienc\""
+    _title6~"Hearing and the hospital : sound, listening, knowledge and experienc"
     _author6~"Tom Rice"
     _year6~2013
     _link6~41BCU_ALMA7148939360002851
@@ -1146,7 +1146,7 @@ replacement410=(
     _author3~"Huldrych M Koelbing"
     _year3~1967
     _link3~41BCU_ALMA7155919430002851
-    _title4~"Die Harnschau : \"eine Kultur- und Alltagsgeschichte\""
+    _title4~"Die Harnschau : eine Kultur- und Alltagsgeschichte"
     _author4~"Michael Stolberg"
     _year4~2009
     _link4~41BCU_ALMA7161254110002851
@@ -1167,7 +1167,7 @@ replacement51=(
     _author1~"Sauveur Bouvier"
     _year1~1858
     _link1~41BCU_ALMA7162675590002851
-    _title2~"Anatomie des Menschen : \"Bewegungsapparat\""
+    _title2~"Anatomie des Menschen : Bewegungsapparat"
     _author2~"Hermann Braus"
     _year2~1921
     _link2~41BCU_ALMA7153310110002851
@@ -1183,7 +1183,7 @@ replacement51=(
     _author5~"Charles M Tipton"
     _year5~2014
     _link5~41BCU_ALMA7146047510002851
-    _title6~"Physiology : \"the language of life and nature\""
+    _title6~"Physiology : the language of life and nature"
     _author6~"Rick Welch"
     _year6~2016
     _link6~41BCU_ALMA7172959740002851
@@ -1192,7 +1192,7 @@ replacement51=(
 ################################################################################
 ## Marteau à réflexes Taylor
 replacement52=(
-    _title1~"Structure anatomique et nature des individualités du système nerveux : \"anses réflexes physio-psychiques\""
+    _title1~"Structure anatomique et nature des individualités du système nerveux : anses réflexes physio-psychiques"
     _author1~"Ch Morin"
     _year1~1892
     _link1~41BCU_ALMA7144609380002851
@@ -1204,7 +1204,7 @@ replacement52=(
     _author3~"E.G.T Liddell"
     _year3~1960
     _link3~41BCU_ALMA7157205760002851
-    _title4~"L'invention de la physiologie : \"100 expériences historiques\""
+    _title4~"L'invention de la physiologie : 100 expériences historiques"
     _author4~"Rémi Cadet"
     _year4~2008
     _link4~41BCU_ALMA7153707590002851
@@ -1214,7 +1214,7 @@ replacement52=(
     _link5~41BCU_ALMA7155636490002851
     _title6~"Les élèves de Claude Bernard"
     _author6~"Jean-Gaël Barbara ... [et al]"
-    _year6~""
+    _year6~"2012"
     _link6~41BCU_ALMA7158271910002851
 )
 
@@ -1262,7 +1262,7 @@ replacement54=(
     _author3~"Audrey B Davis"
     _year3~1986
     _link3~41BCU_ALMA7144367170002851
-    _title4~"Histoire anecdotique des instruments médicaux : \"de l'abaisse-langue aux ventouses\""
+    _title4~"Histoire anecdotique des instruments médicaux : de l'abaisse-langue aux ventouses"
     _author4~"Isabelle Lévy"
     _year4~1995
     _link4~41BCU_ALMA7158807490002851
@@ -1270,7 +1270,7 @@ replacement54=(
     _author5~"Rolf Ahlzén ... [et al.]"
     _year5~2010
     _link5~41BCU_ALMA7154341940002851
-    _title6~"La médecine personnalisée : \"un essai philosophique\""
+    _title6~"La médecine personnalisée : un essai philosophique"
     _author6~"Xavier Guchet"
     _year6~2016
     _link6~41BCU_ALMA7160040710002851
@@ -1295,7 +1295,7 @@ replacement55=(
     _author4~"Yves Guerrier"
     _year4~1987
     _link4~41BCU_ALMA7156333240002851
-    _title5~"Infections des voies respiratoires : \"diagnostic et traitement au cabinet\""
+    _title5~"Infections des voies respiratoires : diagnostic et traitement au cabinet"
     _author5~
     _year5~[2003?]
     _link5~41BCU_ALMA7158872180002851
@@ -1316,11 +1316,11 @@ replacement56=(
     _author2~"René Laënnec"
     _year2~1927
     _link2~41BCU_ALMA7162409600002851
-    _title3~"Laennec, inventeur de l'auscultation 1781-1826 : \"exposition\""
+    _title3~"Laennec, inventeur de l'auscultation 1781-1826 : exposition"
     _author3~
     _year3~1981
     _link3~41BCU_ALMA7157403620002851
-    _title4~"An ear to the chest : \"an illustrated history of the evolution of the stethoscope\""
+    _title4~"An ear to the chest : an illustrated history of the evolution of the stethoscope"
     _author4~"Morton D Blaufox"
     _year4~2002
     _link4~41BCU_ALMA7153903580002851
@@ -1353,11 +1353,11 @@ replacement57=(
     _author4~"Bartolommeo Eustachi"
     _year4~1999
     _link4~41BCU_ALMA7161442310002851
-    _title5~"De l'art dentaire à d'autres arts : \"[anecdodontes biographiques]\""
+    _title5~"De l'art dentaire à d'autres arts : [anecdodontes biographiques]"
     _author5~"Henri Lamendin"
     _year5~2007
     _link5~41BCU_ALMA7142979880002851
-    _title6~"Zahnärzte und Zahnheilkunde im "Dritten Reich""
+    _title6~"Zahnärzte und Zahnheilkunde im \"Dritten Reich\""
     _author6~"Dominik Gross ... [et al]"
     _year6~2018
     _link6~41BCU_ALMA7187349530002851
@@ -1395,7 +1395,7 @@ replacement58=(
 ################################################################################
 ## Clé dentaire
 replacement59=(
-    _title1~"L'évolution de l'art dentaire : \"de l'Antiquité à nos jours\""
+    _title1~"L'évolution de l'art dentaire : de l'Antiquité à nos jours"
     _author1~"Raymond Boissier"
     _year1~1927
     _link1~41BCU_ALMA7147462620002851
@@ -1403,7 +1403,7 @@ replacement59=(
     _author2~"Curt Proskauer"
     _year2~1967
     _link2~41BCU_ALMA7144306700002851
-    _title3~""Das Kind beim Zahnarzt" in der deutschsprachigen zahnärztlichen Lehrbuchliteratur ..."
+    _title3~"\"Das Kind beim Zahnarzt\" in der deutschsprachigen zahnärztlichen Lehrbuchliteratur ..."
     _author3~"Kiju Kim"
     _year3~1984
     _link3~41BCU_ALMA7145640750002851
@@ -1415,7 +1415,7 @@ replacement59=(
     _author5~"Xavier Riaud"
     _year5~2009
     _link5~41BCU_ALMA7144274210002851
-    _title6~"The smile stealers : \"the fine + foul art of dentistry\""
+    _title6~"The smile stealers : the fine + foul art of dentistry"
     _author6~"Richard Barnett"
     _year6~[2017]
     _link6~41BCU_ALMA7175518650002851
@@ -1436,7 +1436,7 @@ replacement510=(
     _author3~"Silvana Borgognini Tarli ... [et al.]"
     _year3~1985
     _link3~41BCU_ALMA7154356410002851
-    _title4~"Über Alveolarknochen und Zähne im "Theatrum anatomicum" des Caspar Bauhin"
+    _title4~"Über Alveolarknochen und Zähne im \"Theatrum anatomicum\" des Caspar Bauhin"
     _author4~"Udo Henke"
     _year4~1993
     _link4~41BCU_ALMA7152102270002851
@@ -1461,15 +1461,15 @@ replacement61=(
     _author2~"Bernhard Wolf Weinberger"
     _year2~1948
     _link2~41BCU_ALMA7159871700002851
-    _title3~"La stomatologie dans le "Corpus aristotélicien""
+    _title3~"La stomatologie dans le \"Corpus aristotélicien\""
     _author3~"Gerrit Cootjans"
     _year3~1991
     _link3~41BCU_ALMA7157271160002851
-    _title4~"Making the American mouth : \"dentists and public health in the 20th century\""
+    _title4~"Making the American mouth : dentists and public health in the 20th century"
     _author4~"Alyssa Picard"
     _year4~2009
     _link4~41BCU_ALMA7149470050002851
-    _title5~"Odontologie médico-légale et serial killers : \"la dent qui en savait trop...\""
+    _title5~"Odontologie médico-légale et serial killers : la dent qui en savait trop..."
     _author5~"Xavier Riaud"
     _year5~2014
     _link5~41BCU_ALMA7148181950002851
@@ -1490,7 +1490,7 @@ replacement62=(
     _author2~"René Boisson"
     _year2~1948
     _link2~41BCU_ALMA7143177710002851
-    _title3~"The American dentist : \"a pictorial history ...\""
+    _title3~"The American dentist : a pictorial history ..."
     _author3~"Richard A Glenner"
     _year3~1990
     _link3~41BCU_ALMA7156847730002851
@@ -1498,7 +1498,7 @@ replacement62=(
     _author4~
     _year4~2003
     _link4~41BCU_ALMA7158578750002851
-    _title5~"Lingua medica : \"Lehrbuch zur medizinischen und zahnmedizinischen Terminologie\""
+    _title5~"Lingua medica : Lehrbuch zur medizinischen und zahnmedizinischen Terminologie"
     _author5~"M Gadebusch Bondio"
     _year5~2007
     _link5~41BCU_ALMA7153855860002851
@@ -1523,7 +1523,7 @@ replacement63=(
     _author3~"Vincenzo Guerini"
     _year3~1967
     _link3~41BCU_ALMA7159543470002851
-    _title4~"Dentistry : \"an illustrated history\""
+    _title4~"Dentistry : an illustrated history"
     _author4~"Malvin E Ring"
     _year4~1992
     _link4~41BCU_ALMA7164670000002851
@@ -1573,7 +1573,7 @@ replacement65=(
     _author1~"J Bosviel"
     _year1~1911
     _link1~41BCU_ALMA7184009700002851
-    _title2~"Das Tonsillenproblem im Kindesalter : \"Tonsils in or out\""
+    _title2~"Das Tonsillenproblem im Kindesalter : Tonsils in or out"
     _author2~"Fred Bamatter"
     _year2~1945
     _link2~41BCU_ALMA7144255690002851
@@ -1598,7 +1598,7 @@ replacement65=(
 ################################################################################
 ## Amygdalotome
 replacement66=(
-    _title1~"Laryngoscopischer Atlas : \"nach der Natur gemalt und erläutert\""
+    _title1~"Laryngoscopischer Atlas : nach der Natur gemalt und erläutert"
     _author1~"Ernst Burow"
     _year1~1877
     _link1~41BCU_ALMA7186257940002851
@@ -1606,7 +1606,7 @@ replacement66=(
     _author2~"Georges Laurens"
     _year2~1916
     _link2~41BCU_ALMA7154595140002851
-    _title3~"Società swizera di rino-oto-laringlologia : \"1912 - 1962\""
+    _title3~"Società swizera di rino-oto-laringlologia : 1912 - 1962"
     _author3~"Jean-Pierre de Reynier"
     _year3~[1962]
     _link3~41BCU_ALMA7153771570002851
@@ -1618,7 +1618,7 @@ replacement66=(
     _author5~"Manfred Skopec"
     _year5~1998
     _link5~41BCU_ALMA7147452250002851
-    _title6~"Otorhinolaryngology : \"an illustrated history\""
+    _title6~"Otorhinolaryngology : an illustrated history"
     _author6~"Neil Weir"
     _year6~2013
     _link6~41BCU_ALMA7157963740002851
@@ -1701,7 +1701,7 @@ replacement69=(
     _author4~"Julius Casserius"
     _year4~1969
     _link4~41BCU_ALMA7145664060002851
-    _title5~"Puissances de la voix : \"corps sentant, corde sensible\""
+    _title5~"Puissances de la voix : corps sentant, corde sensible"
     _author5~"Sémir Badir ... [et al.]"
     _year5~2001
     _link5~41BCU_ALMA7163073850002851
@@ -1718,7 +1718,7 @@ replacement610=(
     _author1~"Morell Mackenzie"
     _year1~1867
     _link1~41BCU_ALMA7184286740002851
-    _title2~"Atlas des maladies du nez : \"avec 34 planches en couleurs\""
+    _title2~"Atlas des maladies du nez : avec 34 planches en couleurs"
     _author2~"Robert Krieg"
     _year2~1901
     _link2~41BCU_ALMA7184398390002851
@@ -1734,7 +1734,7 @@ replacement610=(
     _author5~"Harald Kleinschmidt"
     _year5~2012
     _link5~41BCU_ALMA7153238580002851
-    _title6~"De nez à nez : \"histoire du nez\""
+    _title6~"De nez à nez : histoire du nez"
     _author6~"Vincent Bouton"
     _year6~2014
     _link6~41BCU_ALMA7148252680002851
@@ -1759,7 +1759,7 @@ replacement71=(
     _author4~"John Gerard"
     _year4~1975
     _link4~41BCU_ALMA7153275240002851
-    _title5~"Leysin : \"l'hospitalisation, organisation médicale\""
+    _title5~"Leysin : l'hospitalisation, organisation médicale"
     _author5~"Philippe Heimann"
     _year5~[1990]
     _link5~41BCU_ALMA7157573960002851
@@ -1784,7 +1784,7 @@ replacement72=(
     _author3~"Marie-Louise Barcs-Masson"
     _year3~1977
     _link3~41BCU_ALMA7184858550002851
-    _title4~"The bruising apothecary : \"images of pharmacy and medicine in caricature\""
+    _title4~"The bruising apothecary : images of pharmacy and medicine in caricature"
     _author4~"Kate Arnold-Forster"
     _year4~1989
     _link4~41BCU_ALMA7155942710002851
@@ -1809,7 +1809,7 @@ replacement73=(
     _author2~"William Boericke"
     _year2~1927
     _link2~41BCU_ALMA7162300480002851
-    _title3~"Planet medicine : \"from stone age shamanism to post-industrial healing\""
+    _title3~"Planet medicine : from stone age shamanism to post-industrial healing"
     _author3~"Richard Grossinger"
     _year3~1980
     _link3~41BCU_ALMA7142854890002851
@@ -1821,7 +1821,7 @@ replacement73=(
     _author5~"John S Haller Jr."
     _year5~2009
     _link5~41BCU_ALMA7155545280002851
-    _title6~"A century of homeopaths : \"their influence on medicine and health\""
+    _title6~"A century of homeopaths : their influence on medicine and health"
     _author6~"Jonathan Davidson"
     _year6~2014
     _link6~41BCU_ALMA7144529550002851
@@ -1834,7 +1834,7 @@ replacement74=(
     _author1~"Philipp Lorenz Geiger"
     _year1~1833
     _link1~41BCU_ALMA7157953570002851
-    _title2~"La médication française : \"guide thérapeutique des spécialités pharmaceutiques françaises\""
+    _title2~"La médication française : guide thérapeutique des spécialités pharmaceutiques françaises"
     _author2~
     _year2~1936
     _link2~41BCU_ALMA7153026410002851
@@ -1842,15 +1842,15 @@ replacement74=(
     _author3~"Sidney M Wolfe"
     _year3~1981
     _link3~41BCU_ALMA7146423800002851
-    _title4~"Strömung, Kraft und Nebenwirkung : \"eine Geschichte der Basler Pharmazie\""
+    _title4~"Strömung, Kraft und Nebenwirkung : eine Geschichte der Basler Pharmazie"
     _author4~"Michael Kessler... [et al.]"
     _year4~[2001]
     _link4~41BCU_ALMA7149593880002851
-    _title5~"The drug book : \"from arsenic to Xanax\""
+    _title5~"The drug book : from arsenic to Xanax"
     _author5~"Michael C Gerald"
     _year5~2013
     _link5~41BCU_ALMA7162856750002851
-    _title6~"Self-medication and society : \"mirages of autonomy\""
+    _title6~"Self-medication and society : mirages of autonomy"
     _author6~"Sylvie Fainzang"
     _year6~2017
     _link6~41BCU_ALMA7172939990002851
@@ -1859,7 +1859,7 @@ replacement74=(
 ################################################################################
 ## Pilon
 replacement75=(
-    _title1~"Die neuern Arzneimittel : \"ihre physischen und chemischen Eigenschaften ...\""
+    _title1~"Die neuern Arzneimittel : ihre physischen und chemischen Eigenschaften ..."
     _author1~"Viktor A Riecke"
     _year1~1837
     _link1~41BCU_ALMA7144626680002851
@@ -1908,7 +1908,7 @@ replacement76=(
     _author5~"Rob Boddice"
     _year5~2014
     _link5~41BCU_ALMA7147049960002851
-    _title6~"La douleur : \"quelle chose étrange\""
+    _title6~"La douleur : quelle chose étrange"
     _author6~"Steve Haines"
     _year6~2018
     _link6~41BCU_ALMA7191488670002851
@@ -1921,7 +1921,7 @@ replacement77=(
     _author1~"Johann Nepomuk von Nussbaum"
     _year1~1881
     _link1~41BCU_ALMA7150116280002851
-    _title2~"Guide du samaritain : \"manuel des pansements usuels ...\""
+    _title2~"Guide du samaritain : manuel des pansements usuels ..."
     _author2~"Carle de Marval"
     _year2~[1905]
     _link2~41BCU_ALMA7154328580002851
@@ -1954,11 +1954,11 @@ _title2~"Headache and other head pain"
     _author2~"Harold G Wolff"
     _year2~1948
     _link2~41BCU_ALMA7142773420002851
-    _title3~"The body in pain : \"the making and unmaking of the world\""
+    _title3~"The body in pain : the making and unmaking of the world"
     _author3~"Elaine Scarry"
     _year3~1985
     _link3~41BCU_ALMA7143407910002851
-    _title4~"L'esperienza del dolore : \"le forme del patire nella cultura occidentale\""
+    _title4~"L'esperienza del dolore : le forme del patire nella cultura occidentale"
     _author4~"Salvatore Natoli"
     _year4~1998
     _link4~41BCU_ALMA7158007010002851
@@ -1966,7 +1966,7 @@ _title2~"Headache and other head pain"
     _author5~"Luigi Naldi ... [et al.]"
     _year5~2002
     _link5~41BCU_ALMA7161263300002851
-    _title6~"Pain : \"a political history\""
+    _title6~"Pain : a political history"
     _author6~"Keith Wailoo"
     _year6~2014
     _link6~41BCU_ALMA7159888540002851
@@ -1995,7 +1995,7 @@ replacement79=(
     _author5~"Elisa Guerra Doce"
     _year5~2006
     _link5~41BCU_ALMA7151946050002851
-    _title6~"\"It all depends on the dose\" : \"poisons and medicines in European history\""
+    _title6~"\"It all depends on the dose\" : poisons and medicines in European history"
     _author6~"Ole P Grell ... [et al.]"
     _year6~2018
     _link6~41BCU_ALMA7185816020002851
@@ -2004,27 +2004,27 @@ replacement79=(
 ################################################################################
 ## Epanal Un
 replacement710=(
-    _title1~"Über die Ursache des Schlafes : \"ein Vortrag\""
+    _title1~"Über die Ursache des Schlafes : ein Vortrag"
     _author1~"William Preyer"
     _year1~1887
    _link1~41BCU_ALMA7152712630002851
-    _title2~"Insomnia : \"an outline for the practitioner\""
+    _title2~"Insomnia : an outline for the practitioner"
     _author2~"Hugh Crichton-Miller"
     _year2~1930
     _link2~41BCU_ALMA7160356130002851
-    _title3~"Electroencephalography (EEG) of human sleep : \"clinical applications\""
+    _title3~"Electroencephalography (EEG) of human sleep : clinical applications"
     _author3~"Robert L Williams"
     _year3~1974
     _link3~41BCU_ALMA7154212870002851
-    _title4~"Insomnia : \"a cultural history\""
+    _title4~"Insomnia : a cultural history"
     _author4~"Eluned Summers-Bremner"
     _year4~2008
     _link4~41BCU_ALMA7149547940002851
-    _title5~"Yoga-thérapie : \"soigner l'insomnie\""
+    _title5~"Yoga-thérapie : soigner l'insomnie"
     _author5~"Lionel Coudron"
     _year5~2013
     _link5~41BCU_ALMA7161154580002851
-    _title6~"Sleep demons : \"an insomniac's memoir\" : \"with a new preface\""
+    _title6~"Sleep demons : an insomniac's memoir : with a new preface"
     _author6~"Bill Hayes"
     _year6~2018
     _link6~41BCU_ALMA7184079690002851
