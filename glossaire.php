@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <header>
-  <?php include('header-glossaire.html'); ?>
+  <div style="width:1200px; margin:0 auto;">
+    <?php include('header-glossaire.html'); ?>
+  </div>
 </header>
 
 <!-- body -->

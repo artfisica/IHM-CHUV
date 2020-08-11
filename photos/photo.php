@@ -3,8 +3,11 @@
 <head>
   <?php include('head.html'); ?>
 </head>
+
 <header>
+  <div style="width:1200px; margin:0 auto;">
   <?php include('header.html'); ?>
+</div>
 </header>
 
 <?php
@@ -54,10 +57,9 @@
         }
         fclose($file);
 
-        echo "<p style=\"padding: 0px 0px 0px 10%; color:white;\">";
+        echo "<p style=\"padding: 0px 0px 0px 0px; color:white;\">";
         echo "<b>$data[3]</b>";
         echo"<br>$data[5]</br>";
-        echo "<a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" title=\"Creative Commons Attribution-Share Alike 4.0\" >CC BY-SA 4.0</a>";
         echo "</p>";
         ?>
         <!-- end legend under the picture -->

@@ -11,17 +11,16 @@ div.left {
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 1;
-    grid-row-end: 2;
+    grid-row-end: 1;
     background-color: Black;
     text-align:center;
     position: relative;
-    height: 100%;
-    min-width: 100px;
-    max-width: 620px;
+    min-width: 150px;
+    max-width: 1000px;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0px 0px 0px 20px;
+    padding: 0px 0px 0px 12%;
     margin-left: auto;
     margin-right: auto;
     align: center;
@@ -31,16 +30,19 @@ div.right {
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 1;
-    grid-row-end; 1;
+    grid-row-end: 1;
     background-color: Black;
     text-align:center;
     position: relative;
-    height: 100%;
-    min-width: 100px;
-    max-width: 930px;
+    min-width: 150px;
+    max-width: 900px;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 0px 8% 0px 5%;
+    margin-left: auto;
+    margin-right: auto;
+    align: center;
 }
 
 div.middle {
@@ -49,9 +51,15 @@ div.middle {
     grid-row-start: 2;
     grid-row-end: 2;
     background-color: Black;
-    padding: 10px 4% 0px 1%;
+    position: relative;
+    padding: 15px 0px 0px 10%;
     font-size: 115%;
+    display: flex;
+    align-items: center;
     font-family: "NeoSansStd";
+    min-width: 150px;
+    max-width: 800px;
+    margin:0 auto;
 }
 
 div.below {

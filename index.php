@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <header>
+  <div style="width:1200px; margin:0 auto;">
   <?php include('header.html'); ?>
+</div>
 </header>
 
 <!-- body -->
