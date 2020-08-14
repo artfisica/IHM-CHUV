@@ -5,6 +5,8 @@ div.macrocontainer {
     padding: 20px 0px 0px 0px;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    width: 1200px;
+    margin:0 auto;
 }
 
 div.left {
@@ -16,11 +18,12 @@ div.left {
     text-align:center;
     position: relative;
     min-width: 150px;
-    max-width: 1000px;
+    width: 530px;
+    max-width: 540px;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0px 0px 0px 12%;
+    padding: 0px 0px 0px 0px;
     margin-left: auto;
     margin-right: auto;
     align: center;
@@ -35,11 +38,12 @@ div.right {
     text-align:center;
     position: relative;
     min-width: 150px;
-    max-width: 900px;
+    width: 655px;
+    max-width: 660px;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0px 8% 0px 5%;
+    padding: 0px 0px 0px 45px;
     margin-left: auto;
     margin-right: auto;
     align: center;
@@ -52,14 +56,13 @@ div.middle {
     grid-row-end: 2;
     background-color: Black;
     position: relative;
-    padding: 15px 0px 0px 10%;
+    padding: 15px 10px 0px 4px;
     font-size: 115%;
     display: flex;
-    align-items: center;
+    align-items: left;
     font-family: "NeoSansStd";
     min-width: 150px;
-    max-width: 800px;
-    margin:0 auto;
+    max-width: 550px;
 }
 
 div.below {
