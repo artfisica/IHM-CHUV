@@ -5,7 +5,7 @@
 </head>
 
 <header>
-  <div style="width:1200px; margin:0 auto;">
+  <div style="width:1276px; margin:0 auto;">
   <?php include('header.html'); ?>
 </div>
 </header>
