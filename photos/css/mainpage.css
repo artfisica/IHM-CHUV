@@ -5,7 +5,7 @@ div.macrocontainer {
     padding: 20px 0px 0px 0px;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    width: 1276px;
+    width: 1360px;
     margin:0 auto;
 }
 
@@ -18,12 +18,12 @@ div.left {
     text-align:center;
     position: relative;
     min-width: 150px;
-    width: 510px;
-    max-width: 540px;
+    width: 595px;
+    max-width: 600px;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 45px;
     margin-left: 0;
     margin-right: auto;
     align: center;
@@ -56,13 +56,13 @@ div.middle {
     grid-row-end: 2;
     background-color: Black;
     position: relative;
-    padding: 15px 10px 0px 0px;
+    padding: 15px 10px 0px 45px;
     font-size: 115%;
     display: flex;
     align-items: left;
     font-family: "NeoSansStd";
     min-width: 150px;
-    max-width: 550px;
+    max-width: 595px;
 }
 
 div.below {
