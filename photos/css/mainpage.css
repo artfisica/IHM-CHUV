@@ -2,7 +2,7 @@ div.macrocontainer {
     display: grid;
     grid-template-columns: auto 1px auto;
     grid-template-rows: auto;
-    padding: 20px 0px 0px 0px;
+    padding: 20px 0px 0px 4px;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     width: 1360px;
