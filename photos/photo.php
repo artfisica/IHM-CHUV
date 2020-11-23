@@ -58,8 +58,8 @@
         fclose($file);
 
         echo "<p style=\"padding: 0px 0px 0px 0px; color:white;\">";
-        echo "<b>$data[3]</b>";
-        echo "<b>$data[4]</b>";
+        echo "<b>$data[3]</b></br>";
+        echo "<i>$data[4]</i></br>";
         echo"<br>$data[5]</br>";
         echo "</p>";
         ?>
