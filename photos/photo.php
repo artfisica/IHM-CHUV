@@ -49,7 +49,7 @@
         <!-- legend under the picture of the main object -->
         <?php
         $photo=$_GET["photo"];
-        $file = fopen("../data-form/IHM-DB-dec-2019-pipe.tsv", "r") or die("Cannot open file!\n");
+        $file = fopen("../data-form/IHM-DB-nov-2020-pipe.tsv", "r") or die("Cannot open file!\n");
         while ($line = fgets($file, 1024)) {
             if (preg_match("/\b$photo\b/i", $line)) {
                 $data = explode('|', $line);
@@ -59,6 +59,7 @@
 
         echo "<p style=\"padding: 0px 0px 0px 0px; color:white;\">";
         echo "<b>$data[3]</b>";
+        echo "<b>$data[4]</b>";
         echo"<br>$data[5]</br>";
         echo "</p>";
         ?>
